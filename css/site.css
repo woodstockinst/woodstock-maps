@@ -1,0 +1,47 @@
+label {
+	font-size:0.6em;
+	text-transform: uppercase;
+	padding-bottom:	1em;
+	}
+.row {
+	margin-top:1em;
+	margin-bottom:1em;
+	}
+
+#map,
+#sidebar,
+#graph {
+	position:relative;
+	border:0.1em solid #ddd;
+	height:80vh;
+	}
+
+/* sidebar */
+#sidebar {
+	padding:1em;
+	border-left:none;
+	}
+#sidebar a{
+	font-size:0.75em;
+	padding:1em;
+	}
+#map-switch p span{
+	display:block;
+	padding:1em 0 0 0;
+	font-size:0.75em;
+	text-transform: uppercase;
+	font-weight:700;
+	}
+#map-switch .button {
+	width:100%;
+	}
+/*#compare,
+#export {
+	position:absolute;
+	bottom:0;
+	left:1em;
+	}
+#export {
+	left:auto;
+	right:1em;
+	}*/

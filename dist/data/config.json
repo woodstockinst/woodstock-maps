@@ -1,0 +1,386 @@
+{
+    "basemap": "woodstockinst.ja66l5j2",
+    "graphs": [
+        {
+            "display": " residential addresses vacancy (%)",
+            "mapid": "long_term_vacancy",
+            "medians": [
+                1.92,
+                2.8,
+                3.7,
+                3.97,
+                4.42,
+                5.31
+            ],
+            "subject": "housing",
+            "type": "percent",
+            "years": [
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013
+            ]
+        },
+        {
+            "display": " average mortgage value ($)",
+            "mapid": "avg_loan_value",
+            "medians": [
+                153455.0,
+                144630.0,
+                147450.0
+            ],
+            "subject": "mortgage",
+            "type": "currency",
+            "years": [
+                2010,
+                2011,
+                2012
+            ]
+        },
+        {
+            "display": "Per capita income",
+            "mapid": "capita_income",
+            "medians": [
+                27700.0
+            ],
+            "subject": "income",
+            "type": "currency",
+            "years": [
+                2013
+            ]
+        },
+        {
+            "display": "Employment rate",
+            "mapid": "pct_employment",
+            "medians": [
+                59.0
+            ],
+            "subject": "employment",
+            "type": "percent",
+            "years": [
+                2013
+            ]
+        }
+    ],
+    "schema": [
+        {
+            "locale": [
+                "Census Tract",
+                "County",
+                "CBSA",
+                "Municipality"
+            ],
+            "metrics": [
+                {
+                    "map": "Completed Auctions per Thousand Mortgagable Properties",
+                    "mapid": "completed_auctions_per_1000",
+                    "type": "number",
+                    "years": [
+                        "2013",
+                        "2012",
+                        "2011",
+                        "2010",
+                        "2009",
+                        "2008"
+                    ]
+                },
+                {
+                    "map": "Foreclosure Filings per Thousand Mortgagable Properties",
+                    "mapid": "foreclosure_filings_per_1000",
+                    "type": "number",
+                    "years": [
+                        "2013",
+                        "2012",
+                        "2011",
+                        "2010",
+                        "2009",
+                        "2008"
+                    ]
+                }
+            ],
+            "schema": [
+                "completed_auctions_per_1000",
+                "foreclosure_filings_per_1000"
+            ],
+            "subject": "Chicago Foreclosure"
+        },
+        {
+            "locale": [
+                "Census Tract",
+                "County",
+                "CBSA",
+                "Municipality"
+            ],
+            "metrics": [
+                {
+                    "map": "Total Notices of Sale per Thousand Mortgagable Properties",
+                    "mapid": "nos_per_1000",
+                    "type": "number",
+                    "years": [
+                        "2013",
+                        "2012",
+                        "2011",
+                        "2010",
+                        "2009",
+                        "2008"
+                    ]
+                },
+                {
+                    "map": "Foreclosure Filings per Thousand Mortgagable Properties",
+                    "mapid": "foreclosure_filings_per_1000_il",
+                    "type": "number",
+                    "years": [
+                        "2013",
+                        "2012",
+                        "2011",
+                        "2010",
+                        "2009",
+                        "2008"
+                    ]
+                }
+            ],
+            "schema": [
+                "nos_per_1000",
+                "foreclosure_filings_per_1000_il"
+            ],
+            "subject": "Rest Of Illinois Foreclosure"
+        },
+        {
+            "locale": [
+                "Census Tract",
+                "County",
+                "CBSA",
+                "Municipality"
+            ],
+            "metrics": [
+                {
+                    "map": "Percent Long-Term Vacancy",
+                    "mapid": "long_term_vacancy",
+                    "type": "percent",
+                    "years": [
+                        "2013",
+                        "2012",
+                        "2011",
+                        "2010",
+                        "2009",
+                        "2008"
+                    ]
+                },
+                {
+                    "map": "Change in Long-Term Vacancy From Prior Year",
+                    "mapid": "change_long_term_vacancy",
+                    "type": "percent",
+                    "years": [
+                        "2013",
+                        "2012",
+                        "2011",
+                        "2010",
+                        "2009"
+                    ]
+                },
+                {
+                    "map": "Percent Owner-Occupied",
+                    "mapid": "vacancy_pct_owner_occupied",
+                    "type": "percent",
+                    "years": [
+                        "2013",
+                        "2012",
+                        "2011",
+                        "2010",
+                        "2009",
+                        "2008"
+                    ]
+                }
+            ],
+            "schema": [
+                "long_term_vacancy",
+                "change_long_term_vacancy",
+                "vacancy_pct_owner_occupied"
+            ],
+            "subject": "Housing"
+        },
+        {
+            "locale": [
+                "Census Tract",
+                "County",
+                "CBSA"
+            ],
+            "metrics": [
+                {
+                    "map": "Percent Mortgages For Owner-Occupied Homes",
+                    "mapid": "mortgage_pct_for_owner_occupancy",
+                    "type": "percent",
+                    "years": [
+                        "2012",
+                        "2011",
+                        "2010"
+                    ]
+                },
+                {
+                    "map": "Percent Originated",
+                    "mapid": "pct_origin",
+                    "type": "percent",
+                    "years": [
+                        "2012",
+                        "2011",
+                        "2010"
+                    ]
+                },
+                {
+                    "map": "Percent Conventional Loans",
+                    "mapid": "pct_conventional",
+                    "type": "percent",
+                    "years": [
+                        "2012",
+                        "2011",
+                        "2010"
+                    ]
+                },
+                {
+                    "map": "Average Loan Value",
+                    "mapid": "avg_loan_value",
+                    "type": "currency",
+                    "years": [
+                        "2012",
+                        "2011",
+                        "2010"
+                    ]
+                }
+            ],
+            "schema": [
+                "mortgage_pct_for_owner_occupancy",
+                "pct_origin",
+                "pct_conventional",
+                "avg_loan_value"
+            ],
+            "subject": "Mortgage",
+            "tractfiles": {
+                "2010": "2000",
+                "2011": "2000",
+                "2012": "2010"
+            }
+        },
+        {
+            "locale": [
+                "Census Tract",
+                "County",
+                "CBSA",
+                "Municipality"
+            ],
+            "metrics": [
+                {
+                    "map": "Average Household Income",
+                    "mapid": "avg_household_income",
+                    "type": "currency",
+                    "years": [
+                        "2013"
+                    ]
+                },
+                {
+                    "map": "Median Household Income",
+                    "mapid": "med_household_income",
+                    "type": "currency",
+                    "years": [
+                        "2013"
+                    ]
+                },
+                {
+                    "map": "Per-Capita Income",
+                    "mapid": "capita_income",
+                    "type": "currency",
+                    "years": [
+                        "2013"
+                    ]
+                },
+                {
+                    "map": "Percent of Population in Poverty",
+                    "mapid": "pct_poverty",
+                    "type": "percent",
+                    "years": [
+                        "2013"
+                    ]
+                }
+            ],
+            "schema": [
+                "avg_household_income",
+                "med_household_income",
+                "capita_income",
+                "pct_poverty"
+            ],
+            "subject": "Income"
+        },
+        {
+            "locale": [
+                "Census Tract",
+                "County",
+                "CBSA",
+                "Municipality"
+            ],
+            "metrics": [
+                {
+                    "map": "Employment Rate",
+                    "mapid": "pct_employment",
+                    "type": "percent",
+                    "years": [
+                        "2013"
+                    ]
+                },
+                {
+                    "map": "Percent Females Employed",
+                    "mapid": "pct_f_employment",
+                    "type": "percent",
+                    "years": [
+                        "2013"
+                    ]
+                },
+                {
+                    "map": "Percent Males Employed",
+                    "mapid": "pct_m_employment",
+                    "type": "percent",
+                    "years": [
+                        "2013"
+                    ]
+                }
+            ],
+            "schema": [
+                "pct_employment",
+                "pct_f_employment",
+                "pct_m_employment"
+            ],
+            "subject": "Employment"
+        },
+        {
+            "locale": [
+                "Census Tract",
+                "County",
+                "CBSA",
+                "Municipality"
+            ],
+            "metrics": [
+                {
+                    "map": "Percent Jobs Held By Women",
+                    "mapid": "pct_f_jobs",
+                    "type": "percent",
+                    "years": [
+                        "2013"
+                    ]
+                },
+                {
+                    "map": "Percent Jobs Held By Men",
+                    "mapid": "pct_m_jobs",
+                    "type": "percent",
+                    "years": [
+                        "2013"
+                    ]
+                }
+            ],
+            "schema": [
+                "pct_f_jobs",
+                "pct_m_jobs"
+            ],
+            "subject": "Jobs"
+        }
+    ]
+}

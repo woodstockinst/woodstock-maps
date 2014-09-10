@@ -1,0 +1,14 @@
+{
+  "name": "woodstock",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "underscore": "~1.4.3",
+    "backbone": "~1.0.0",
+    "modernizr": "~2.6.2",
+    "font-awesome": "~4.0.3",
+    "topojson": "~1.6.8",
+    "queue-async": "~1.0.7"
+  },
+  "devDependencies": {}
+}

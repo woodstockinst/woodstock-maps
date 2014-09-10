@@ -1,0 +1,393 @@
+<!doctype html>
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Woodstock Institute | Map </title>
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <!--[if gt IE 8]><!--><link rel="stylesheet" href="scripts/foundation/5.1/css/foundation.css" /><!--<![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" href="scripts/foundation/3.2/css/foundation.min.css"><![endif]-->
+
+        <!-- build:css styles/font-awesome.css -->
+        <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css">
+        <!-- endbuild -->
+
+        <!-- build:css(.tmp) styles/main.css -->
+        <link rel="stylesheet" href="styles/mapbox.css">
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+
+        <!-- build:js scripts/vendor/modernizr.js -->
+        <script src="bower_components/modernizr/modernizr.js"></script>
+        <!-- endbuild -->
+    </head>
+    <body>
+        <div class='header'>
+            <div class='row'>
+                <a href='http://www.woodstockinst.org'><img class='medium-2 columns' src='images/logo-simple.png'/></a>
+                <ul class='subnav medium-8 columns'>
+                    <li class='show-for-large-only'><a href='http://www.woodstockinst.org/advocacy'>Advocacy</a></li>
+                    <li><a href='http://www.woodstockinst.org/blog' class='highlight'>Blog</a></li>
+                    <li class='show-for-large-only'><a href='http://www.woodstockinst.org/press'>Media Center</a></li>
+                    <li class='show-for-large-only'><a href='http://www.woodstockinst.org/research'>Research</a></li>
+                    <li class='show-for-large-only'><a href='http://www.woodstockinst.org/focus-areas'>Focus Areas</a></li>
+                    <li><a href='#' class='active'>Map</a></li>
+                    <li class='show-for-large-only'><a href='http://www.woodstockinst.org/data'>Data</a></li>
+                    <li><a href='http://www.woodstockinst.org/about'>About</a></li>
+                    <li><a href='http://www.woodstockinst.org' class='highlight'>Home</a></li>
+                </ul>
+                <ul class='social medium-2 columns'>
+                    <li><a href='http://www.woodstockinst.org/rss.xml'><i class="fa fa-lg fa-rss"></i></a></li>
+                    <li><a href='http://www.facebook.com/305087839971'><i class="fa fa-lg fa-facebook"></i></a></li>
+                    <li><a href='http://twitter.com/woodstockinst'><i class="fa fa-lg fa-twitter"></i></a></li>
+                    <li><a href='https://plus.google.com/u/1/b/103376477769089128649/103376477769089128649'><i class="fa fa-lg fa-google-plus-square"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class='window'>
+          <!-- sidebar -->
+          <div class="medium-3 columns sidebar">
+
+            <p class='show-for-small-only sidebar-explain'>Map updates based on your selection</p>
+
+            <label class='label-sidebar'>Current Dataset</label>
+
+            <!-- dataset -->
+            <div class='subject medium-6 columns'>
+              <select id='type-select'></select>
+            </div><!-- end data set selector -->
+            <!-- year -->
+            <div class='year medium-6 columns'>
+              <select id='year-select'>
+              </select>
+            </div><!-- end years -->
+
+            <label class='label-sidebar'>
+                geography &amp; boundaries
+            </label>
+
+            <!-- geo unit -->
+            <div class='geography medium-6 columns'>
+              <select id='locale-select'>
+              </select>
+            </div><!-- end geo units -->
+
+            <!-- legislative boundary -->
+            <div class='legislative medium-6 columns'>
+              <select id='boundary-select'>
+              </select>
+            </div><!-- end legislative -->
+
+            <label class='label-sidebar'>Related Maps</label>
+
+            <!-- maps available -->
+            <div id='map-switch'>
+              <ul class='button-group'>
+              </ul>
+            </div><!-- end available maps -->
+
+            <div id='quintile-wrap'>
+                <label class='label-sidebar'>
+                    Quintile Selection
+                    <a href='#' id='clear-quintile'>✖ clear</a>
+                </label>
+                <!-- quintile ranking -->
+                <ul class='quintile-container'>
+                    <li class='quintile-legend legend-0 radius'>1</li>
+                    <li class='quintile-legend legend-1 radius'>2</li>
+                    <li class='quintile-legend legend-2 radius'>3</li>
+                    <li class='quintile-legend legend-3 radius'>4</li>
+                    <li class='quintile-legend legend-4 radius'>5</li>
+                </ul>
+                <label class='label-sidebar'>
+                    <span>Click on the legend to select geographies of the same quintile(s) state-wide</span>
+                </label>
+            </div>
+
+            <p class='show-for-small-only sidebar-explain'>Scroll down to view map</p>
+        </div><!-- end sidebar -->
+
+        <!-- map -->
+        <div id='map' class="medium-9 columns">
+            <div id='loader'></div>
+        </div>
+
+        <div class='medium-9 columns pane show-for-medium-up' id='graph-pane'>
+            <div id='graph-content'>
+                <div class='medium-9 columns'>
+                    <div class='graph-single' id='median-graph-1'></div>
+                    <div class='graph-single' id='median-graph-2'></div>
+                    <div class='graph-legend'>
+                        <div class='legend-unit label'>
+                            <span class='line-legend line-dark'>&nbsp;</span>
+                            Selected Geography
+                        </div>
+                        <div class='legend-unit label'>
+                            <span class='line-legend line-light'>&nbsp;</span>
+                            Illinois median
+                        </div>
+                    </div>
+                </div>
+                <div class='medium-3 columns' id='context-graph-body'>
+                    <h4>Context</h4>
+                    <table id='numeric-1'>
+                        <tr>
+                            <td class='label-value'></td>
+                            <td><span class='num-value'></span></td>
+                        </tr>
+                        <tr>
+                            <td class='label-median'>illinois median</td>
+                            <td><span class='num-median'></span></td>
+                        </tr>
+                    </table>
+                    <table id='numeric-2'>
+                        <tr>
+                            <td class='label-value'></td>
+                            <td><span class='num-value'></span></td>
+                        </tr>
+                        <tr>
+                            <td class='label-median'>illinois median</td>
+                            <td><span class='num-median'></span></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <a id='close-graph-pane' class='close' href='#'>&#10006;</a>
+        </div>
+    </div><!--window-->
+    <div class='info'>
+        <ul class='legend' id='quintile-legend'>
+        </ul>
+        <ul class='export'>
+            <li><label>export as</label></li>
+            <li><a href='#' data-reveal-id='pdf' class='label radius'>pdf</a></li>
+            <li><a href='#' data-reveal-id='csv' id='csv-open' class='label radius'>csv</a></li>
+        </ul>
+    </div>
+    </div>
+    <!-- modal -->
+    <div id='pdf' class='reveal-modal' data-reveal>
+        <p>
+            <i class='fa fa-lg fa-file-text-o'></i>
+            Follow the instruction below to get a pdf version of the page
+        </p>
+        <label>If you use Chrome:</label>
+        <ol>
+            <li>Go to menu: <pre>File</pre> > <pre>Print</pre> or press <pre>cmd/ctrl + p</pre></li>
+            <li>In the chrome print dialogue, make sure <pre>Background colors and images</pre> option is checked.</li>
+            <li><pre>Save As PDF</pre></li>
+        </ol>
+        <label>If you use Firefox:</label>
+        <ol>
+            <li>Go to menu: <pre>File</pre> > <pre>Print</pre> or press <pre>cmd/ctrl + p</pre></li>
+            <li>Firefox uses your system print dialogue. Make sure <pre>Print background colors</pre> and <pre>Print background Images</pre> are checked under <pre>Appearance</pre>.</li>
+            <li><pre>Save As PDF</pre></li>
+        </ol>
+        <!-- <label>If you use Internet Explorer above version 8:</label> -->
+        <a class='close-reveal-modal'>&#215;</a>
+    </div>
+
+    <!-- modal -->
+    <div id='csv' class='reveal-modal' data-reveal>
+        <label>Available Datasets</label>
+        <div id='csv-container'>
+        </div>
+        <label>Notes for CSV download:</label>
+        <ol>
+            <li>CSV are catalogued by selected subject, available year, and selected geography.</li>
+            <li>To change the subject and/or geography level of the files, go back to the interface and select desired items.</li>
+            <li>Each CSV includes all the columns used for the <pre>Related Maps</pre>.</li>
+        </ol>
+        <a class='close-reveal-modal'>&#215;</a>
+    </div>
+
+    <ol class='intro-list' data-joyride>
+        <li data-text='Next'>
+            <p><b>Welcome to the Woodstock map browser.</b></p>
+            <p>If you've used this already, go ahead and close the intro. Click Next for a walk-through of the browser.</p>
+            <p>You can access data of the following subject for the state of Illinois. </p>
+            <ul>
+                <li>foreclosure filing/auctions</li>
+                <li>mortgage lending</li>
+                <li>housing
+                <li>income
+                <li>jobs
+                <li>employment
+            </ul>
+            <p>Data is available on the following geographic levels.</p>
+            <ul>
+                <li>Census Tract</li>
+                <li>County</li>
+                <li>Municipality (i.e. Census Place)</li>
+                <li>CBSA (Core Based Statistical Area)</li>
+            </ul>
+        </li>
+        <li data-id='type-select' data-text='Next' data-options='tip_location: right'>
+            <p>Select the dataset and year. Only available years of the dataset show up.</p>
+        </li>
+        <li data-id='locale-select' data-text='Next' data-options='tip_location: right'>
+            <p>Select the geography to which the data is aggregated. You can also toggle on/off legislative boundary for reference, including:</p>
+            <ul>
+                <li>Congressional District</li>
+                <li>House of Representatives District</li>
+                <li>State Senate District</li>
+            </ul>
+            <p>However, data is not aggregated to the legislative boundaries.</p>
+        </li>
+        <li data-id='map-switch' data-text='Next' data-options='tip_location: right'>
+            <p>Each dataset consists of a few maps related to the subject. Select the map you would like to see.</p>
+        </li>
+        <li data-id='legend' data-text='Next' data-options='tip_location: right'>
+            <p>Toggle on and off a rank number to select geographies with the same rank. Ranks are calculated with in quintiles.</p>
+        </li>
+        <li data-text='Next'>
+            <p><b>Map Navigation</b></p>
+            <ol>
+                <li>Click on the map to see the details of the selected geography which will appear as a popup. By default, all geographies are compared to the state, but you can change it to a smaller geography. The ranking with change accordingly as the map refreshes.</li>
+                <li>The Analysis button will bring up graphs of the key statistic traits of the geography.</li>
+            </ol>
+            <img src='images/ws-intro.gif'/>
+        </li>
+        <li data-id='geocoder' data-text='Done!' data-options='tip_location: left'>
+            <p>Search places with town/city names and zipcodes.</p>
+        </li>
+    </ol>
+
+    <div id='templates'>
+
+        <script type='text/template' id='csv-download-template'>
+            <div class='csv-download' data-locale='<%= locale %>' data-subject='<%= subject %>' data-year='<%= year %>' data-metric='<%= metric %>'>
+                <i class="fa fa-file fa-3x"></i>
+                <label><%= filename %></label>
+            </div>
+        </script>
+
+        <script type='text/template' id='popup-template'>
+            <h3><%= name %></h3>
+            <table class='popup'>
+                <tbody>
+                    <tr>
+                        <td><%= metric %></td>
+                        <td class='p-val'><div><%= value %></div></td>
+                    </tr>
+                    <tr>
+                        <td>Rank</td>
+                        <td class='p-val'><div class='rank-<%= plus_quintile - 1 %>'><%= plus_quintile %></div></td>
+                    </tr>
+                    <% if (boundary) { %>
+                        <% if (!boundary.community) { %>
+                        <tr>
+                            <td>District</td>
+                            <td class='center-td'><%= boundary.dist %></td>
+                        </tr>
+                        <tr>
+                            <td>Rep</td>
+                            <td class='center-td'><%= boundary.rep %></td>
+                        </tr>
+                        <tr>
+                            <td>Party</td>
+                            <td class='center-td'><%= boundary.party %></td>
+                        </tr>
+                        <% } else {%>
+                        <tr>
+                            <td>Community</td>
+                            <td class='center-td'><%= boundary.community %></td>
+                        </tr>
+                        <% }%>
+                    <% } %>
+                </tbody>
+            </table>
+
+            <% if (selects) { %>
+            <div class='universe-selector'>
+                Compare to <select id='universe'></select>
+            </div>
+            <% } %>
+
+            <button id='open-graph'>&#10010; analysis</button>
+            <button id='close-graph' class='active'>&#10006; analysis</button>
+        </script>
+
+        <script type='text/template' id='quintile-legend-template'>
+            <li><label>Quintile Legend</label></li>
+            <% _.each(values, function(value, i) { %>
+            <li><span class='static-legend legend-<%= i %> radius'><%= i + 1 %></span><%= value %></li>
+            <% }); %>
+        </script>
+
+    </div>
+
+</div>
+
+    <!--[if lt IE 10]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXX-X');ga('send','pageview');
+    </script>
+
+    <!-- build:js scripts/vendor.js -->
+    <script src="bower_components/jquery/jquery.js"></script>
+    <script src="bower_components/underscore/underscore.js"></script>
+    <script src="bower_components/backbone/backbone.js"></script>
+    <script src="bower_components/d3/d3.js"></script>
+    <script src="bower_components/topojson/topojson.js"></script>
+    <script src="bower_components/queue-async/queue.js"></script>
+    <script src="bower_components/jspdf/dist/jspdf.min.js"></script>
+    <script src="bower_components/spin.js/spin.js"></script>
+    <script src="bower_components/jquery.animateNumber/jquery.animateNumber.min.js"></script>
+    <script src="bower_components/jquery.cookie/jquery.cookie.js"></script>
+    <!-- endbuild -->
+
+    <!-- build:js({.tmp,app}) scripts/main.js -->
+    <script src="scripts/main.js"></script>
+    <script src="scripts/templates.js"></script>
+    <script src="scripts/router.js"></script>
+    <script src="scripts/models.js"></script>
+    <script src="scripts/collections.js"></script>
+    <script src="scripts/graphviews.js"></script>
+    <script src="scripts/views.js"></script>
+    <!-- endbuild -->
+
+    <script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js"></script>
+
+
+    <!--[if gte IE 9]><!-->
+    <script src="scripts/foundation/5.1/js/foundation.min.js"></script>
+    <!--<![endif]-->
+
+    <!--[if IE 8]>
+    <script src='scripts/foundation/3.2/js/foundation.min.js'></script>
+    <script src='script src='scripts/foundation/3.2/js/app.js'></script>
+    <![endif]-->
+
+    <!--[if gte IE 9]><!-->
+    <script>
+    $(document).foundation();
+    </script>
+    <!--<![endif]-->
+
+    <!--[if gte IE 11]><!-->
+    <script>
+        var $d = $(document), joyride = $.cookie('joyride');
+        if (joyride !== 'done') {
+            $d.foundation('joyride', 'start');
+            $.cookie('joyride', 'done', {expires: 7, path: '/'});
+        }
+    </script>
+    <!--<![endif]-->
+
+
+</body>
+</html>
