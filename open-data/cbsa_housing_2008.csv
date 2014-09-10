@@ -1,0 +1,73 @@
+year,tract_id,tract_name,num_tracts,num_vacants,pct_vacant,pct_change,pct_owner_occupied
+2008,17101,Lawrence County,6936,276.75,3.99,null,64.03
+2008,17025,Clay County,6404,1782.25,27.83,null,67.88
+2008,17181,Union County,7924,368.0,4.64,null,63.81
+2008,17023,Clark County,7772,474.75,6.11,null,64.35
+2008,17173,Shelby County,10396,747.0,7.19,null,70.4
+2008,15900,"Canton, IL",16194,2060.0,12.72,null,67.41
+2008,23660,"Galesburg, IL",31759,3075.25,9.68,null,61.37
+2008,40300,"Rochelle, IL",22561,2079.0,9.22,null,68.68
+2008,25380,"Harrisburg, IL",11697,847.0,7.24,null,64.78
+2008,19340,"Davenport-Moline-Rock Island, IA-IL",111480,6013.25,5.39,null,67.24
+2008,16660,"Charleston-Mattoon, IL",28298,1023.75,3.62,null,58.71
+2008,37900,"Peoria, IL",164283,14565.25,8.87,null,67.28
+2008,17045,Edgar County,8803,479.5,5.45,null,67.23
+2008,17047,Edwards County,3186,165.75,5.2,null,68.59
+2008,17041,Douglas County,8390,413.5,4.93,null,71.18
+2008,17149,Pike County,7951,691.25,8.69,null,64.7
+2008,16580,"Champaign-Urbana, IL",101120,3286.75,3.25,null,52.31
+2008,39500,"Quincy, IL-MO",34377,1082.25,3.15,null,66.06
+2008,17145,Perry County,9426,497.0,5.27,null,67.84
+2008,17069,Hardin County,2488,149.5,6.01,null,60.77
+2008,16980,"Chicago-Naperville-Elgin, IL-IN-WI",3797246,99838.75,2.63,null,60.11
+2008,32060,"Marion-Herrin, IL",30358,1295.0,4.27,null,63.02
+2008,17125,Mason County,7077,598.75,8.46,null,72.06
+2008,23300,"Freeport, IL",22081,2174.5,9.85,null,64.05
+2008,19500,"Decatur, IL",50474,3028.5,6.0,null,62.08
+2008,17189,Washington County,6534,225.5,3.45,null,74.41
+2008,44580,"Sterling, IL",25770,1347.0,5.23,null,68.72
+2008,17075,Iroquois County,13452,704.25,5.24,null,67.21
+2008,16060,"Carbondale, IL",28578,1761.25,6.16,null,44.05
+2008,27300,"Jacksonville, IL",17974,897.5,4.99,null,63.56
+2008,28100,"Kankakee-Bradley, IL",45246,2829.5,6.25,null,62.78
+2008,16020,"Cape Girardeau-Jackson, MO-IL",42499,2677.0,6.3,null,61.02
+2008,44100,"Springfield, IL",95554,6765.0,7.08,null,65.77
+2008,41180,"St. Louis, MO-IL",1225205,54644.75,4.46,null,63.76
+2008,17193,White County,7181,651.75,9.08,null,68.88
+2008,19180,"Danville, IL",36317,1583.75,4.36,null,62.13
+2008,17191,Wayne County,7974,311.25,3.9,null,69.38
+2008,16460,"Centralia, IL",18295,1251.25,6.84,null,65.07
+2008,17059,Gallatin County,2746,227.0,8.27,null,68.1
+2008,17033,Crawford County,8661,470.75,5.44,null,72.44
+2008,30660,"Lincoln, IL",12106,1142.5,9.44,null,63.46
+2008,34500,"Mount Vernon, IL",21058,1329.75,6.31,null,65.97
+2008,17153,Pulaski County,3155,361.25,11.45,null,60.38
+2008,17039,De Witt County,7521,493.5,6.56,null,69.75
+2008,36860,"Ottawa-Streator, IL",68771,6733.75,9.79,null,68.2
+2008,17139,Moultrie County,6260,271.0,4.33,null,71.85
+2008,38700,"Pontiac, IL",15895,1654.25,10.41,null,67.2
+2008,17151,Pope County,2491,89.25,3.58,null,57.65
+2008,40420,"Rockford, IL",145935,7766.75,5.32,null,62.66
+2008,17157,Randolph County,13707,872.0,6.36,null,65.66
+2008,45380,"Taylorville, IL",15563,643.25,4.13,null,67.47
+2008,19940,"Dixon, IL",15048,985.75,6.55,null,67.75
+2008,17051,Fayette County,9302,692.0,7.44,null,71.35
+2008,15460,"Burlington, IA-IL",22361,1737.0,7.77,null,67.52
+2008,17159,Richland County,7513,393.75,5.24,null,68.55
+2008,17135,Montgomery County,13079,660.0,5.05,null,65.93
+2008,17017,Cass County,5836,575.0,9.85,null,61.46
+2008,14060,"Bloomington-Normal, IL",69656,7791.25,11.19,null,61.51
+2008,17015,Carroll County,8437,1318.5,15.63,null,60.82
+2008,17009,Brown County,2462,120.5,4.89,null,62.27
+2008,22800,"Fort Madison-Keokuk, IA-IL-MO",75224,3396.25,4.51,null,64.76
+2008,17061,Greene County,6388,335.5,5.25,null,69.46
+2008,20820,"Effingham, IL",14570,419.0,2.88,null,73.86
+2008,17055,Franklin County,18525,846.5,4.57,null,67.12
+2008,17085,Jo Daviess County,13574,1816.5,13.38,null,56.57
+2008,17087,Johnson County,5598,426.25,7.61,null,63.34
+2008,17169,Schuyler County,3459,293.25,8.48,null,72.33
+2008,17067,Hancock County,9273,958.75,10.34,null,68.02
+2008,37140,"Paducah, KY-IL",46900,2428.25,5.18,null,62.01
+2008,17185,Wabash County,5585,237.0,4.24,null,67.18
+2008,31380,"Macomb, IL",14419,1363.5,9.46,null,54.16
+2008,17079,Jasper County,4344,211.5,4.87,null,76.16

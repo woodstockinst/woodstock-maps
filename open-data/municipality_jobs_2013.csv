@@ -1,0 +1,1369 @@
+tract_id,tract_name,pct_female_jobs,pct_male_jobs
+1763641,Richmond village,39.11,60.89
+1744498,Long Creek village,36.17,63.83
+1780125,West Dundee village,47.53,52.45
+1736347,Hoyleton village,41.67,59.03
+1711293,Carmi city,47.93,52.03
+1727091,Forsyth village,49.94,50.06
+1773391,Sugar Grove village,44.22,55.78
+1782985,Wood Dale city,41.82,58.18
+1754534,Oak Brook village,56.91,43.09
+1709681,Bureau Junction village,40.28,59.72
+1755002,Oakwood village,52.52,47.9
+1708225,Bridgeview village,41.55,58.45
+1769875,Sidney village,50.79,49.21
+1765884,Rosewood Heights CDP,47.89,52.11
+1751271,Muddy village,35.71,64.29
+1717991,Cuba city,64.35,35.65
+1756978,Otterville town,0.0,66.67
+1709577,Bunker Hill city,47.5,52.5
+1704117,Batchtown village,55.56,50.0
+1739883,Kildeer village,52.15,47.85
+1778708,Waltonville village,42.86,57.14
+1747280,Martinton village,38.3,61.7
+1708420,Broadlands village,50.0,50.0
+1783765,Yale village,33.33,50.0
+1769277,Sheridan village,56.51,43.49
+1701205,Alto Pass village,50.0,50.0
+1732408,Hamel village,35.48,65.59
+1755171,Odell village,42.39,57.61
+1756159,Oneida city,54.81,45.19
+1717523,Crete village,61.24,38.76
+1778383,Waggoner village,32.47,68.83
+1783102,Woodland village,76.0,24.0
+1768458,Seaton village,53.33,46.67
+1726454,Flora city,50.25,49.72
+1732668,Hanna City village,43.18,56.82
+1774860,Thayer village,52.1,47.9
+1779163,Waterman village,48.62,51.38
+1772624,Steward village,41.12,58.88
+1721254,Dupo village,32.58,67.55
+1721579,East Brooklyn village,50.0,50.0
+1737257,Indian Head Park village,54.36,45.58
+1750829,Mount Auburn village,45.16,54.84
+1750530,Morrison city,57.26,42.67
+1764174,Ripley village,12.5,87.5
+1782218,Wilsonville village,52.63,52.63
+1704936,Bellmont village,25.93,74.07
+1769082,Shawneetown city,35.43,64.57
+1778942,Warsaw city,53.17,46.83
+1717458,Crest Hill city,48.75,51.23
+1705404,Berkeley village,41.75,58.25
+1749607,Minooka village,46.92,53.17
+1738115,Jacksonville city,57.3,42.71
+1740832,La Harpe city,62.73,37.27
+1777720,Versailles village,17.39,82.61
+1760079,Piper City village,66.67,33.33
+1734670,Highland city,48.1,51.88
+1712801,Chebanse village,49.74,50.26
+1704689,Belgium village,58.14,41.86
+1717185,Crainville village,56.57,43.43
+1738375,Jerome village,42.4,57.6
+1761899,Princeton city,56.29,43.73
+1731992,Gulf Port village,54.55,45.45
+1735671,Hollowayville village,42.11,57.89
+1716210,Cooksville village,58.82,41.18
+1746240,Malden village,31.29,68.71
+1714767,Clayton village,57.41,43.21
+1733136,Harrisburg city,51.65,48.33
+1710643,Cambridge village,62.95,37.05
+1735411,Hoffman Estates village,52.33,47.68
+1764590,Roanoke village,40.34,59.66
+1750647,Morton Grove village,43.5,56.5
+1710084,Bush village,47.37,57.89
+1701543,Anna city,61.74,38.23
+1717077,Coyne Center CDP,42.86,57.14
+1749555,Minier village,47.64,52.36
+1775757,Topeka village,0.0,50.0
+1740767,La Grange village,56.06,43.94
+1750790,Mound Station village,16.67,83.33
+1735073,Hillsdale village,29.84,70.43
+1730029,Glenwood village,40.87,59.11
+1748554,Merrionette Park village,58.71,41.29
+1735307,Hinsdale village,57.8,42.21
+1700230,Addieville village,37.78,62.22
+1780879,West Union CDP,38.89,61.11
+1777473,Venice city,19.7,80.3
+1730757,Grand Ridge village,46.97,51.52
+1773170,Streator city,57.4,42.52
+1746864,Marine village,59.31,40.69
+1724374,Erie village,48.84,51.16
+1743445,Lima village,48.0,52.0
+1754781,Oakland city,33.06,66.94
+1720526,Dover village,32.35,69.12
+1766287,Ruma village,35.71,64.29
+1748242,Melrose Park village,44.64,55.35
+1744719,Loraine village,47.92,52.08
+1731576,Greenview village,52.0,48.0
+1711592,Cary village,48.39,51.61
+1729938,Glenview village,52.09,47.91
+1748606,Metamora village,65.36,34.64
+1723503,Ellis Grove village,30.77,69.23
+1727884,Freeport city,58.98,41.02
+1708303,Brimfield village,56.97,43.03
+1736190,Hopkins Park village,70.0,30.0
+1773547,Summerfield village,46.96,53.04
+1759273,Pesotum village,42.57,57.43
+1710513,Calumet Park village,58.02,41.91
+1736750,Huntley village,44.96,55.07
+1709148,Brussels village,50.0,50.0
+1743939,Lisle village,43.2,56.8
+1722567,Edgewood village,31.82,68.18
+1778175,Virgil village,47.62,51.95
+1707471,Bourbonnais village,62.54,37.43
+1764759,Rochester village,48.56,51.7
+1727533,Fox River Grove village,49.7,50.3
+1751206,Mount Zion village,55.6,44.48
+1759052,Peotone village,47.29,52.71
+1771604,Spring Bay village,23.73,76.27
+1780060,West Chicago city,38.17,61.82
+1715352,Coffeen city,40.85,59.15
+1752467,New Grand Chain village,50.0,50.0
+1718420,Dallas City city,52.41,47.59
+1765962,Rossville village,37.83,62.17
+1775653,Toluca city,50.82,48.95
+1727624,Frankfort village,53.29,46.7
+1752311,New Canton town,42.5,57.5
+1712008,Cedarville village,37.89,63.16
+1718641,Darmstadt CDP,33.33,55.56
+1778370,Wadsworth village,44.46,55.39
+1769212,Sheldon village,76.02,23.98
+1726467,Floraville CDP,44.44,55.56
+1742405,Lawrenceville city,53.21,46.83
+1772702,Stillman Valley village,48.0,51.5
+1703571,Banner village,35.71,64.29
+1726662,Foosland village,50.0,50.0
+1730835,Grandview village,41.64,58.36
+1749802,Modesto village,42.31,53.85
+1780645,Westmont village,54.0,45.98
+1770122,Skokie village,50.85,49.15
+1779150,Waterloo city,55.27,44.73
+1757329,Palmyra village,44.68,56.38
+1779449,Waynesville village,37.5,62.5
+1773943,Sun River Terrace village,66.0,34.0
+1732967,Harmon village,25.0,75.0
+1766989,St. Libory village,38.96,62.34
+1733630,Hawthorn Woods village,52.66,47.34
+1730900,Grandwood Park CDP,60.45,39.55
+1761080,Pontoosuc village,48.15,48.15
+1716119,Congerville village,20.0,80.0
+1749945,Monee village,34.03,65.97
+1737647,Ipava village,50.0,50.0
+1734449,Heyworth village,46.79,53.38
+1760599,Pleasant Plains village,39.76,60.24
+1761067,Pontoon Beach village,34.46,65.41
+1777863,Vienna city,63.62,36.16
+1750491,Morris city,61.88,38.12
+1746383,Manito village,48.61,51.39
+1769186,Shelbyville city,48.74,51.26
+1701556,Annapolis CDP,50.0,50.0
+1781191,White City village,50.0,54.17
+1725960,Fidelity village,55.26,44.74
+1740156,Kirkland village,43.15,56.85
+1738414,Jerseyville city,62.78,37.22
+1745278,Lyndon village,48.28,51.72
+1764616,Robbins village,40.53,59.55
+1764343,River Grove village,47.31,52.69
+1741716,Lakewood Shores CDP,27.59,72.41
+1775822,Towanda village,38.71,61.29
+1742971,Le Roy city,57.12,42.73
+1784220,Zion city,61.06,38.94
+1730588,Gorham village,33.33,66.67
+1701881,Arcola city,47.03,52.97
+1731368,Greenfield city,42.15,57.02
+1711618,Casey city,51.96,48.04
+1767236,Salem city,49.88,50.1
+1754222,North Utica village,48.3,51.78
+1776407,Tuscola city,57.72,42.33
+1764902,Rockdale village,22.19,77.76
+1781048,Wheaton city,57.54,42.46
+1723425,Elliott village,46.94,53.06
+1769524,Shiloh village,51.61,48.42
+1707913,Breese city,53.6,46.4
+1714286,Christopher city,67.29,32.9
+1767925,Scales Mound village,45.76,54.24
+1754820,Oak Lawn village,65.79,34.21
+1723191,Elizabethtown village,53.95,46.05
+1700113,Abingdon city,60.48,39.72
+1707640,Braceville village,48.57,51.43
+1707315,Boody CDP,31.58,68.42
+1700685,Algonquin village,53.37,46.65
+1704351,Beardstown city,44.51,55.49
+1780242,Western Springs village,58.7,41.34
+1701426,Andalusia village,25.19,74.81
+1731563,Green Valley village,37.89,62.11
+1710695,Camden village,6.67,100.0
+1764837,Rock City village,44.9,55.1
+1777044,Ursa village,46.88,53.13
+1704598,Beecher City village,25.42,74.58
+1744381,Lomax village,67.65,32.35
+1744836,Lost Nation CDP,16.46,83.54
+1768328,Scott AFB CDP,43.44,56.56
+1762757,Ransom village,29.22,70.78
+1723776,Elsah village,40.26,59.74
+1765403,Rome CDP,58.71,41.29
+1703012,Aurora city,49.9,50.1
+1724985,Fairmount village,48.53,52.94
+1772884,Stonefort village,30.16,69.84
+1751479,Murrayville village,30.91,69.09
+1709551,Buncombe village,50.0,50.0
+1781295,White Heath CDP,38.46,61.54
+1745726,Machesney Park village,45.13,54.89
+1718706,Davis village,44.76,55.24
+1718251,Cypress village,64.79,36.62
+1778149,Virden city,42.53,57.37
+1707263,Bonnie village,45.45,55.68
+1774665,Tennessee village,40.0,60.0
+1755756,Old Shawneetown village,36.17,63.83
+1756887,Oswego village,56.08,43.94
+1780073,West City village,54.17,45.83
+1705261,Benson village,45.39,54.61
+1743094,Lexington city,51.8,48.2
+1744524,Long Grove village,53.71,46.29
+1752415,New Douglas village,57.89,42.11
+1755379,Ohio village,47.22,54.17
+1773287,Sublette village,41.18,58.82
+1775419,Time village,0.0,100.0
+1753234,Normal town,55.02,44.97
+1765754,Rose Hill village,33.33,50.0
+1767821,Savanna city,58.04,42.04
+1729431,Gladstone village,53.45,48.28
+1729125,Gibson City city,51.64,48.36
+1708446,Broadview village,50.17,49.83
+1717887,Crystal Lake city,56.47,43.54
+1723971,Emden village,39.62,62.26
+1770005,Simpson village,27.27,72.73
+1737127,Illiopolis village,42.86,57.14
+1783349,Woodstock city,57.18,42.82
+1704000,Bartelso village,41.91,58.09
+1721618,East Carondelet village,32.29,67.71
+1747397,Maryville village,62.51,37.52
+1747423,Mascoutah city,57.08,42.87
+1722957,El Dara village,44.44,55.56
+1728898,Genoa city,57.56,42.44
+1716054,Concord village,35.48,61.29
+1702505,Ashland village,43.28,56.72
+1767912,Saybrook village,38.46,61.54
+1716691,Country Club Hills city,64.49,35.48
+1771448,Sparta city,56.99,43.01
+1756081,Onarga village,53.99,46.01
+1778721,Wamac city,46.05,53.95
+1761223,Port Byron village,29.67,70.33
+1702986,Augusta village,60.66,39.34
+1721904,East Hazel Crest village,45.82,54.18
+1719616,De Soto village,48.44,52.34
+1772403,Staunton city,62.13,37.87
+1738778,Junction village,35.48,64.52
+1772156,Spring Valley city,63.89,36.17
+1781854,Williamsville village,43.29,56.38
+1702342,Arrowsmith village,39.29,60.71
+1766339,Rushville city,60.96,39.04
+1717471,Creston village,47.99,52.23
+1738570,Joliet city,55.16,44.85
+1782725,Witt city,45.61,56.14
+1778929,Warrenville city,42.6,57.4
+1756536,Orient city,14.29,78.57
+1770226,Smithfield village,50.0,50.0
+1779033,Washington city,54.05,45.95
+1733331,Harvard city,50.66,49.32
+1750244,Monticello city,58.19,41.86
+1777707,Verona village,53.85,46.15
+1746604,Maple Park village,43.21,56.61
+1713165,Chesterfield village,26.67,73.33
+1725375,Farina village,40.0,60.0
+1758265,Payson village,50.0,50.0
+1728144,Fulton city,48.8,51.28
+1756627,Orland Hills village,58.81,41.08
+1734272,Heritage Lake CDP,46.03,53.97
+1741859,Lanark city,45.65,54.35
+1767132,St. Peter village,40.79,60.53
+1746110,Magnolia village,33.82,66.18
+1740143,Kinsman village,54.17,45.83
+1715833,Columbia city,53.33,46.67
+1781938,Willowbrook CDP,45.95,54.05
+1738791,Junction City village,63.79,34.48
+1717094,Crab Orchard CDP,15.0,85.0
+1749009,Milan village,40.37,59.6
+1734098,Hennepin village,33.84,66.16
+1761678,Prairie Grove village,51.31,48.55
+1730770,Grand Tower city,32.43,70.27
+1730575,Goreville village,51.2,48.8
+1781074,Wheeler village,31.25,68.75
+1768003,Schaumburg village,49.19,50.81
+1750062,Monroe Center village,53.09,46.91
+1711826,Cave-In-Rock village,54.32,45.68
+1731771,Griggsville city,51.35,47.97
+1708472,Broadwell village,30.0,70.0
+1723165,Elizabeth village,53.53,46.47
+1766066,Round Lake Park village,49.66,50.34
+1748268,Melvin village,15.87,84.13
+1745642,Macedonia village,40.0,60.0
+1780255,Westervelt CDP,66.67,33.33
+1710448,Calhoun village,30.0,70.0
+1773027,Stoy village,50.0,50.0
+1704585,Beecher village,53.6,46.4
+1760833,Plymouth village,61.54,39.42
+1736516,Hull village,54.37,45.63
+1709304,Buckingham village,23.08,73.08
+1762965,Raymond village,31.74,67.92
+1762744,Rankin village,38.14,61.86
+1716873,Countryside city,39.49,60.51
+1734514,Hickory Hills city,49.81,50.19
+1711007,Canton city,63.45,36.59
+1744602,Longview village,50.0,50.0
+1703948,Barry city,54.76,45.58
+1766404,Russellville village,50.0,50.0
+1718719,Davis Junction village,53.3,46.7
+1720890,Du Bois village,5.39,94.61
+1754560,Oakbrook Terrace city,50.39,49.61
+1768822,Shabbona village,48.88,51.12
+1751999,Neponset village,40.51,58.23
+1729041,Germantown village,36.94,63.06
+1755210,Odin village,51.04,48.61
+1754586,Oakdale village,5.31,94.69
+1743770,Lindenhurst village,60.51,39.26
+1762367,Quincy city,53.39,46.6
+1780008,West Brooklyn village,40.91,59.09
+1770720,South Elgin village,48.39,51.61
+1716470,Cortland town,48.24,51.76
+1727663,Franklin village,46.6,54.37
+1732616,Hanaford village,46.15,53.85
+1722164,East Peoria city,33.3,66.7
+1726116,Findlay village,55.1,44.9
+1706184,Bismarck village,42.86,57.14
+1732850,Hardin village,68.85,30.77
+1728950,Georgetown CDP,40.0,60.0
+1700919,Alma village,46.15,56.41
+1771526,Spillertown village,38.89,55.56
+1702752,Atlanta city,33.1,66.9
+1723945,Elwood village,25.59,74.41
+1770031,Sims village,41.67,58.33
+1704013,Bartlett village,43.42,56.62
+1712203,Centreville city,43.2,56.8
+1702531,Ashley city,5.41,94.59
+1742171,La Rose village,51.16,48.84
+1782400,Winfield village,66.41,33.61
+1737465,Ingalls Park CDP,40.07,59.93
+1721605,East Cape Girardeau village,59.26,40.74
+1726480,Florence village,0.0,50.0
+1700867,Allenville village,46.34,53.66
+1773638,Summit village,27.8,72.2
+1747254,Martinsville city,52.1,48.13
+1732525,Hampshire village,38.42,61.69
+1721267,Du Quoin city,56.91,43.09
+1753377,Norridge village,54.38,45.61
+1747072,Maroa city,54.31,46.19
+1757693,Parkersburg village,28.57,68.57
+1757875,Park Ridge city,60.31,39.69
+1721280,Durand village,53.8,46.2
+1717406,Crescent City village,54.21,45.79
+1783622,Wyanet village,49.6,50.4
+1738544,Johnston City city,55.95,44.05
+1715664,Colona city,42.86,57.14
+1712684,Chatham village,48.39,51.61
+1770213,Smithboro village,53.85,46.15
+1715469,Coleta village,41.46,60.98
+1741157,Lake Holiday CDP,34.31,65.69
+1738895,Kaneville village,48.08,52.21
+1714351,Cicero town,47.86,52.14
+1764746,Rochelle city,44.83,55.17
+1734865,Highwood city,54.64,45.36
+1761860,Preston Heights CDP,28.62,71.38
+1757277,Palestine village,42.47,57.53
+1759988,Pingree Grove village,40.36,59.64
+1728170,Fults village,50.0,100.0
+1745811,McLean village,53.0,47.0
+1712970,Cherry village,47.06,52.94
+1779267,Wauconda village,42.36,57.64
+1746279,Malta village,51.72,48.54
+1714533,Claremont village,29.03,70.97
+1760339,Plainville village,51.85,51.85
+1731165,Grayville city,37.4,62.6
+1715807,Colp village,43.75,56.25
+1757472,Pana city,62.88,37.07
+1739129,Kaskaskia village,50.0,50.0
+1748853,Middletown village,31.11,68.89
+1768120,Schram City village,50.3,49.7
+1742912,Leonore village,40.74,55.56
+1745031,Loves Park city,41.78,58.21
+1764928,Rock Falls city,56.05,43.99
+1760937,Polo city,56.18,44.09
+1724348,Equality village,35.86,64.14
+1775991,Trenton city,46.57,53.43
+1709889,Burnt Prairie village,55.56,44.44
+1749100,Millbrook village,51.81,46.99
+1711124,Capron village,50.43,49.13
+1720370,Dorchester village,40.0,40.0
+1763355,Rentchler CDP,50.0,50.0
+1770850,South Holland village,55.45,44.56
+1776511,Twin Grove CDP,21.18,78.82
+1727858,Freeman Spur village,56.86,45.1
+1704572,Bedford Park village,36.04,63.96
+1764811,Rockbridge village,42.11,57.89
+1752961,Niantic village,47.79,52.21
+1709317,Buckley village,27.06,71.76
+1748671,Mettawa village,48.98,51.02
+1751453,Murphysboro city,54.41,45.65
+1763043,Red Bud city,56.53,43.41
+1709538,Bulpitt village,55.26,47.37
+1784155,Zeigler city,58.2,41.8
+1709531,Bull Valley village,45.89,53.91
+1748073,Media village,68.75,31.25
+1743965,Litchfield city,58.25,41.72
+1723373,Elkville village,48.0,52.0
+1751232,Moweaqua village,54.75,44.87
+1743744,Lincolnwood village,52.96,47.04
+1751986,Neoga city,47.76,52.24
+1723009,Eldorado city,58.86,41.14
+1752506,New Haven village,42.59,57.41
+1732200,Hainesville village,66.25,33.75
+1769836,Sidell village,46.97,51.52
+1718472,Damiansville village,51.52,49.49
+1704156,Bath village,22.22,77.78
+1776706,Union village,56.9,43.1
+1729639,Glen Carbon village,57.88,42.06
+1727455,Fox Lake Hills CDP,50.69,48.61
+1759533,Philo village,42.75,57.25
+1722151,Easton village,30.0,73.33
+1755353,Oglesby city,53.97,46.15
+1729145,Gifford village,41.22,58.78
+1775601,Toledo village,47.24,52.76
+1708667,Brooklyn village,44.36,55.64
+1774223,Sycamore city,52.02,47.99
+1703610,Bannockburn village,54.37,45.63
+1721852,East Gillespie village,59.15,40.85
+1778123,Viola village,62.5,37.5
+1759156,Perry village,52.08,47.92
+1779293,Waukegan city,51.49,48.52
+1727702,Franklin Park village,35.97,64.02
+1712567,Charleston city,55.51,44.49
+1740988,Lake Catherine CDP,55.46,44.12
+1765338,Rolling Meadows city,53.25,46.76
+1729093,German Valley village,15.82,84.18
+1749854,Mokena village,47.61,52.41
+1712164,Centralia city,58.82,41.14
+1753585,North City village,53.85,47.44
+1737218,Indian Creek village,39.53,60.47
+1704975,Bellwood village,42.6,57.42
+1742769,Leland Grove city,55.9,44.1
+1775172,Thomson village,36.84,62.41
+1730978,Grantfork village,45.71,57.14
+1702414,Arthur village,36.68,63.32
+1719837,Diamond village,29.26,70.65
+1761216,Port Barrington village,46.26,53.74
+1733318,Hartsburg village,37.14,60.0
+1756198,Opdyke CDP,43.86,54.39
+1729730,Glendale Heights village,38.31,61.69
+1742587,Lee village,43.24,56.76
+1704806,Belle Rive village,45.0,55.0
+1702258,Aroma Park village,37.5,62.5
+1758447,Pekin city,57.54,42.45
+1705573,Berwyn city,59.66,40.34
+1701140,Altona village,54.43,45.57
+1771240,South Roxana village,32.54,67.46
+1750868,Mount Carmel city,57.88,42.16
+1761145,Poplar Grove village,48.22,51.38
+1746136,Mahomet village,53.89,46.18
+1767444,Sandoval village,65.13,35.53
+1707510,Bowen village,61.17,38.83
+1764486,Riverton village,45.15,54.85
+1799999,"Unincorporated, Adams County",45.34,54.66
+1741586,Lake Villa village,60.49,39.56
+1738427,Jewett village,47.46,52.54
+1705612,Bethany village,51.16,48.84
+1759884,Pinckneyville city,50.47,49.53
+1704715,Belknap village,62.5,34.38
+1760144,Pistakee Highlands CDP,17.65,82.35
+1773131,Strawn village,26.67,73.33
+1758057,Patoka village,34.43,65.57
+1742834,Lena village,50.31,49.53
+1750283,Montrose village,34.51,66.37
+1746825,Marietta village,50.0,50.0
+1720149,Dixmoor village,38.17,61.83
+1730159,Golden village,57.14,42.86
+1711150,Carbon Cliff village,53.8,46.38
+1770590,South Beloit city,41.87,58.09
+1743406,Lily Lake village,46.86,52.57
+1709434,Buffalo village,44.07,57.63
+1701270,Amboy city,46.19,53.93
+1700672,Alexis village,41.13,58.87
+1766794,St. Elmo city,50.94,49.44
+1748645,Metropolis city,60.14,39.9
+1701242,Alvan village,44.0,60.0
+1740182,Kirkwood village,41.51,58.49
+1709980,Burr Ridge village,45.5,54.49
+1706704,Blue Island city,50.79,49.19
+1739922,Kinderhook village,54.17,45.83
+1731446,Green Oaks village,44.36,55.64
+1713139,Chester city,52.38,47.62
+1759234,Peru city,57.37,42.62
+1705144,Bement village,51.62,48.05
+1720565,Dowell village,48.48,51.52
+1717783,Crossville village,39.82,60.62
+1768809,Seymour CDP,27.84,72.16
+1754638,Oak Forest city,53.9,46.09
+1727065,Forreston village,49.74,50.78
+1775718,Tonica village,42.14,57.86
+1771643,Springerton village,55.0,45.0
+1751089,Mount Prospect village,49.29,50.71
+1784038,Yorkville city,55.99,44.01
+1759520,Phillipstown village,38.46,61.54
+1739857,Kilbourne village,18.75,81.25
+1744576,Long Point village,57.45,40.43
+1723724,Elmwood Park village,53.02,46.98
+1727442,Fox Lake village,49.27,50.73
+1708875,Broughton village,37.5,62.5
+1774743,Teutopolis village,34.1,65.9
+1702882,Atwood village,38.67,61.33
+1783739,Xenia village,45.71,55.24
+1778227,Volo village,44.66,55.47
+1775614,Tolono village,42.79,57.21
+1726710,Ford Heights village,23.65,76.4
+1729392,Girard city,54.57,45.43
+1706899,Bluffs village,38.24,62.5
+1718992,Deerfield village,57.43,42.58
+1751882,Nebo village,20.0,86.67
+1767873,Sawyerville village,50.0,53.57
+1744407,Lombard village,50.33,49.68
+1711202,Carlinville city,53.96,46.07
+1762783,Rantoul village,58.09,41.85
+1715261,Coatsburg village,47.83,52.17
+1780736,West Peoria city,59.24,40.7
+1704039,Bartonville village,32.89,67.16
+1732499,Hammond village,51.65,48.35
+1771474,Spaulding village,45.07,54.93
+1766040,Round Lake Beach village,55.29,44.75
+1752623,Newman city,51.95,48.05
+1752285,New Burnside village,30.77,71.79
+1732018,Gurnee village,45.31,54.69
+1729080,Germantown Hills village,55.61,44.84
+1775185,Thornton village,27.02,72.96
+1742028,Lansing village,49.21,50.81
+1742756,Leland village,46.27,53.73
+1753390,Norris village,33.33,60.0
+1778916,Warrensburg village,47.67,52.33
+1753559,North Chicago city,48.56,51.44
+1753000,Niles village,50.5,49.51
+1740884,Lake Barrington village,55.84,44.23
+1779735,Wellington village,47.06,50.98
+1753481,Northbrook village,49.17,50.83
+1746058,Maeystown village,42.11,57.89
+1747475,Mason City city,59.7,40.13
+1772520,Steger village,44.98,54.97
+1750920,Mount Clare village,55.56,55.56
+1779085,Washington Park village,31.38,68.62
+1738635,Jonesboro city,65.77,34.23
+1764655,Roberts village,46.67,53.33
+1733162,Harrison CDP,42.91,57.09
+1769147,Sheffield village,41.56,58.44
+1781867,Willisville village,14.75,85.25
+1737998,Ivesdale village,42.86,57.14
+1739324,Kell village,45.45,63.64
+1701049,Altamont city,50.32,49.68
+1764304,River Forest village,61.14,38.86
+1757498,Panama village,44.0,56.0
+1772234,Standard City village,37.93,58.62
+1714026,Chicago Heights city,56.83,43.17
+1742938,Lerna village,44.93,55.07
+1742249,Latham village,53.03,46.97
+1738986,Kansas village,27.78,72.22
+1776199,Troy city,62.32,37.68
+1730094,Godfrey village,57.29,42.71
+1757654,Park City city,51.75,48.25
+1766924,St. Johns village,57.14,44.64
+1734332,Herrick village,60.0,42.22
+1749698,Mitchell CDP,32.58,67.42
+1764018,Ridgway village,42.2,57.8
+1740065,Kingston village,42.86,57.14
+1710149,Butler village,43.75,55.21
+1739077,Karnak village,50.0,50.0
+1738856,Kampsville village,69.32,30.68
+1769563,Shipman town,56.32,44.83
+1749477,Milton village,16.67,83.33
+1719915,Dieterich village,43.96,54.95
+1744823,Lostant village,42.72,57.28
+1749308,Millington village,55.25,44.75
+1777005,Urbana city,61.7,38.3
+1777551,Vermilion village,26.92,73.08
+1780281,Westfield village,23.17,76.83
+1745694,McHenry city,55.7,44.31
+1700646,Aledo city,53.85,46.15
+1723555,Ellsworth village,38.89,61.11
+1748892,Midlothian village,56.31,43.69
+1709330,Buckner village,44.44,57.78
+1736815,Hurst city,45.45,54.55
+1700243,Addison village,38.16,61.84
+1715495,Colfax village,59.2,41.29
+1728742,Garrett village,32.35,66.18
+1745564,McCook village,26.6,73.4
+1777317,Vandalia city,54.79,45.21
+1722736,Effingham city,53.2,46.81
+1781256,White Hall city,57.39,42.48
+1724673,Ewing village,45.95,51.35
+1720591,Downers Grove village,48.05,51.95
+1769810,Sibley village,15.79,84.21
+1751661,Naples town,36.0,60.0
+1754625,Oakford village,57.78,42.22
+1723022,Eldred village,25.0,75.0
+1762848,Raritan village,66.67,33.33
+1717939,Crystal Lawns CDP,46.53,53.47
+1715300,Cobden village,42.86,57.14
+1736074,Hooppole village,27.5,72.5
+1718459,Dalzell village,65.4,34.6
+1716405,Cornell village,58.76,41.24
+1723737,El Paso city,43.86,56.14
+1728638,Gardner village,48.45,51.55
+1782855,Wonder Lake village,38.15,61.85
+1702726,Atkinson town,27.75,72.25
+1765221,Rockwood village,50.0,50.0
+1755886,Olivet CDP,52.63,47.37
+1752168,New Berlin village,39.78,60.22
+1767860,Savoy village,55.63,44.32
+1719031,Deer Grove village,50.0,75.0
+1730133,Golconda city,66.39,33.61
+1726012,Fieldon village,20.0,80.0
+1755249,O'Fallon city,50.82,49.15
+1718030,Cullom village,41.84,57.14
+1774119,Swansea village,56.13,43.92
+1778851,Warren village,46.22,53.78
+1753169,Nokomis city,53.4,46.6
+1721540,Earlville city,45.62,54.38
+1700815,Allendale village,26.09,73.91
+1774379,Tallula village,58.44,41.56
+1752701,New Milford village,31.48,68.52
+1769368,Sherrard village,55.56,50.0
+1766196,Royal Lakes village,44.44,50.0
+1782530,Winnetka village,63.29,36.66
+1718147,Curran village,34.94,65.06
+1728963,Georgetown city,52.52,47.29
+1719499,De Pue village,40.63,59.37
+1721098,Dunfermline village,34.78,65.22
+1764278,Riverdale village,42.68,57.32
+1782270,Winchester city,47.73,51.89
+1713230,Chestnut CDP,52.38,47.62
+1702479,Ashkum village,53.79,46.21
+1775159,Thompsonville village,46.15,52.31
+1782075,Wilmette village,59.27,40.75
+1706171,Bishop Hill village,46.67,53.33
+1774970,The Galena Territory CDP,52.74,47.26
+1765000,Rockford city,52.89,47.1
+1775081,Third Lake village,57.16,42.84
+1746487,Mansfield village,40.0,61.25
+1741105,Lake Forest city,56.45,43.55
+1741456,Lake Summerset CDP,48.39,51.25
+1746331,Manchester village,47.92,52.08
+1769797,Shumway village,26.92,73.08
+1779813,Wenona city,50.41,49.59
+1745824,McLeansboro city,59.06,40.94
+1781815,Williamson village,57.14,42.86
+1757394,Palos Hills city,56.92,43.08
+1750621,Morton village,38.84,61.15
+1734982,Hillcrest village,47.98,52.02
+1782101,Wilmington city,54.46,45.66
+1741214,Lake Ka-Ho village,48.0,52.0
+1772221,Standard village,37.66,62.34
+1757628,Paris city,49.42,50.58
+1749048,Milford village,47.81,52.19
+1782088,Wilmington village,33.33,66.67
+1761015,Pontiac city,50.95,49.04
+1750933,Mount Erie village,41.67,50.0
+1761548,Prairie City village,42.62,57.38
+1701673,Apple River village,46.55,53.45
+1714273,Chrisman city,72.76,27.24
+1777941,Villa Grove city,54.17,46.08
+1720162,Dixon city,53.8,46.19
+1775965,Tremont village,54.5,45.5
+1740676,La Fayette village,56.86,41.18
+1710487,Calumet City city,57.39,42.61
+1711176,Carbon Hill village,26.26,73.74
+1701491,Andover village,63.1,36.9
+1710370,Cahokia village,35.56,64.44
+1711774,Catlin village,62.73,37.73
+1744173,Loami village,40.26,60.39
+1740416,Knoxville city,57.02,42.98
+1709798,Burnham village,45.0,55.0
+1767795,Saunemin village,36.89,63.11
+1724062,Emington village,42.86,57.14
+1768198,Sciota village,22.22,77.78
+1743510,Limestone village,53.07,46.93
+1754924,Oak Run CDP,48.15,51.85
+1751154,Mount Sterling city,36.67,63.33
+1748138,Medora village,22.86,71.43
+1731667,Greenwood village,23.08,76.92
+1739909,Kincaid village,53.26,46.36
+1766131,Roxana village,19.51,80.49
+1711332,Carol Stream village,44.44,55.55
+1740091,Kingston Mines village,29.81,70.19
+1710773,Campbell Hill village,31.58,68.42
+1744082,Little York village,41.67,58.33
+1770460,Somonauk village,45.52,54.24
+1724608,Evansville village,35.87,64.13
+1706613,Bloomington city,50.9,49.1
+1765819,Rosemont village,47.93,52.08
+1707419,Boulder Hill CDP,60.89,38.75
+1772260,Stanford village,53.15,46.85
+1744225,Lockport city,54.51,45.51
+1716431,Cornland CDP,30.77,69.23
+1744550,Long Lake CDP,44.14,55.61
+1736061,Hoopeston city,57.74,42.26
+1711358,Carpentersville village,56.68,43.3
+1773495,Sullivan city,48.3,51.7
+1735814,Homer village,50.82,49.18
+1738323,Jeffersonville village,54.17,41.67
+1718446,Dalton City village,57.63,42.37
+1755418,Ohlman village,53.57,46.43
+1755899,Olmsted village,50.0,50.0
+1727644,Frankfort Square CDP,57.33,42.61
+1783245,Woodridge village,53.3,46.7
+1729171,Gilberts village,42.71,57.23
+1719798,De Witt village,37.5,56.25
+1769979,Silvis city,63.57,36.37
+1715209,Coalton village,53.97,47.62
+1739233,Keenes village,41.67,58.33
+1774561,Taylor Springs village,41.67,58.33
+1762211,Pulaski village,40.0,60.0
+1718537,Danvers village,36.23,62.32
+1711228,Carlyle city,55.57,44.43
+1704052,Basco village,60.0,40.0
+1726350,Flat Rock village,37.5,62.5
+1779241,Watson village,31.58,68.42
+1756471,Oreana village,37.92,62.08
+1768991,Shannon village,45.58,54.42
+1721553,East Alton village,32.08,67.92
+1749867,Moline city,51.74,48.26
+1774301,Table Grove village,50.0,50.0
+1752714,New Minden village,41.38,58.62
+1732564,Hampton village,38.39,61.61
+1775360,Timberlane village,51.61,48.39
+1778201,Virginia city,51.96,48.04
+1712151,Central City village,69.97,30.03
+1737738,Irving village,45.16,54.84
+1742002,Langleyville CDP,53.33,46.67
+1719083,Deer Park village,48.79,51.29
+1747527,Matherville village,52.38,47.62
+1775783,Toulon city,58.36,41.64
+1782049,Willow Springs village,34.9,65.08
+1733695,Hazel Crest village,61.17,38.8
+1783063,Woodhull village,47.4,52.08
+1765078,Rock Island city,52.34,47.67
+1770252,Smithton village,50.76,49.24
+1734423,Hettick village,45.83,58.33
+1768510,Secor village,43.31,55.91
+1761821,Prestbury CDP,43.24,56.76
+1721176,Dunlap village,56.88,43.12
+1772780,Stockton village,52.59,47.41
+1753442,North Aurora village,41.67,58.33
+1761314,Posen village,38.56,61.67
+1765104,Rock Island Arsenal CDP,40.29,59.71
+1757381,Palos Heights city,71.22,28.74
+1781802,Williamsfield village,48.08,51.92
+1714000,Chicago city,51.48,48.52
+1776225,Troy Grove village,35.81,64.19
+1738479,Johnsburg village,51.25,48.69
+1750543,Morrisonville village,47.9,52.1
+1742795,Lemont village,48.84,51.14
+1730328,Golf village,47.5,52.5
+1734358,Herrin city,64.32,35.68
+1725895,Ferris village,50.0,50.0
+1760209,Pittsburg village,14.29,85.71
+1710906,Campton Hills village,51.45,48.79
+1745369,Lynnville village,26.67,73.33
+1740793,La Grange Park village,68.09,31.91
+1714468,Cissna Park village,37.56,62.44
+1757524,Panola village,46.67,60.0
+1742860,Lenzburg village,37.88,60.61
+1731121,Grayslake village,57.38,42.58
+1715846,Columbus village,26.09,69.57
+1725414,Farmer City city,49.03,50.8
+1736477,Huey village,42.86,57.14
+1711163,Carbondale city,57.21,42.79
+1720331,Donovan village,37.84,62.16
+1704533,Beckemeyer village,53.5,46.3
+1744160,Livingston village,57.28,41.75
+1706756,Blue Mound village,32.93,67.07
+1735398,Hoffman village,51.76,48.24
+1748307,Mendon village,47.26,52.74
+1745785,Mackinaw village,45.82,54.18
+1750998,Mount Morris village,41.54,58.46
+1709447,Buffalo Grove village,48.43,51.57
+1711982,Cedar Point village,58.33,42.16
+1731589,Greenville city,55.24,44.73
+1751700,Nashville city,43.11,56.89
+1770525,Sorento village,43.75,56.25
+1773261,Stronghurst village,67.94,32.06
+1718303,Dahlgren village,30.61,69.39
+1759572,Phoenix village,53.14,46.86
+1783271,Wood River city,38.24,61.73
+1718498,Danforth village,53.33,45.71
+1718940,Deer Creek village,44.26,55.74
+1765481,Roodhouse city,49.32,50.68
+1736126,Hopedale village,47.89,52.11
+1774574,Taylorville city,55.98,44.1
+1729340,Gilson CDP,47.06,52.94
+1752142,New Baden village,50.65,49.2
+1707133,Bolingbrook village,52.86,47.14
+1765806,Roselle village,41.26,58.75
+1752545,New Holland village,40.0,60.0
+1702674,Athens city,52.08,47.92
+1778656,Walshville village,44.12,55.88
+1753143,Noble village,39.77,60.23
+1712528,Chapin village,37.23,61.7
+1733513,Havana city,62.23,37.7
+1769342,Sherman village,43.42,56.58
+1749893,Momence city,58.17,41.83
+1771422,Sparland village,43.75,58.33
+1759026,Peoria Heights village,47.11,52.98
+1721410,Eagarville village,50.0,50.0
+1700737,Alhambra village,58.02,43.21
+1753039,Nilwood town,40.0,60.0
+1729236,Gillespie city,59.43,40.46
+1783505,Worden village,35.0,64.17
+1756003,Omaha village,42.42,57.58
+1751726,Nason city,43.48,56.52
+1719161,DeKalb city,54.4,45.59
+1755847,Olive Branch CDP,33.94,66.06
+1733357,Harvel village,33.33,66.67
+1714923,Cleveland village,38.1,61.9
+1747449,Mason town,29.41,70.59
+1737439,Industry village,20.73,79.27
+1747150,Marseilles city,44.29,55.8
+1704845,Belleville city,59.03,40.99
+1734163,Henry city,57.29,42.71
+1753455,North Barrington village,68.87,31.13
+1756640,Orland Park village,61.58,38.43
+1742496,Lebanon city,47.17,52.83
+1758408,Pecatonica village,45.64,54.36
+1757732,Park Forest village,61.79,38.19
+1756484,Oregon city,49.14,50.82
+1761366,Potomac village,41.43,58.57
+1706028,Bingham village,57.14,57.14
+1779436,Wayne City village,41.5,58.5
+1757043,Owaneco village,24.26,75.74
+1733227,Harristown village,47.73,51.82
+1746955,Marissa village,38.15,61.85
+1713074,Cherry Valley village,55.24,44.71
+1750881,Mount Carroll city,61.41,38.59
+1716366,Cordova village,29.65,70.15
+1758577,Penfield CDP,41.98,59.26
+1737894,Island Lake village,46.62,53.38
+1764044,Ridott village,15.94,84.06
+1777811,Victoria village,55.32,44.68
+1730991,Grant Park village,50.52,49.83
+1757407,Palos Park village,68.09,31.91
+1730510,Goofy Ridge CDP,14.29,85.71
+1777148,Valier village,43.08,56.92
+1710916,Campus village,41.38,58.62
+1735541,Holiday Shores CDP,34.9,65.63
+1741651,Lakewood village,53.13,46.88
+1715989,Compton village,41.3,58.7
+1734384,Herscher village,44.51,55.49
+1714455,Cisne village,55.81,44.19
+1750777,Mounds city,41.18,59.66
+1738869,Kane village,42.86,57.14
+1752805,New Salem village,52.94,47.06
+1701010,Alsip village,36.25,63.73
+1769758,Shorewood village,49.42,50.58
+1766800,Ste. Marie village,30.19,67.92
+1758343,Pearl village,16.67,83.33
+1766209,Royalton village,57.85,42.15
+1770889,South Jacksonville village,54.96,45.04
+1773040,Strasburg village,46.34,53.66
+1727806,Freeburg village,44.3,55.7
+1764538,Riverwoods village,54.63,45.37
+1712450,Chandlerville village,43.37,56.63
+1758369,Pearl City village,44.71,55.29
+1728248,Gages Lake CDP,74.81,25.19
+1781165,Whiteash village,42.86,57.14
+1706587,Bloomingdale village,52.49,47.51
+1725063,Fairview village,36.11,61.11
+1735385,Hodgkins village,26.63,73.37
+1748333,Mendota city,51.83,48.2
+1743536,Lincoln city,53.51,46.47
+1767756,Sauget village,20.37,75.93
+1700295,Adeline village,54.55,54.55
+1710591,Camargo village,54.17,45.83
+1718225,Cutler village,14.12,84.71
+1723698,Elmwood city,47.62,52.38
+1754092,North Pekin village,39.81,60.68
+1766599,Sailor Springs village,44.44,55.56
+1754703,Oak Grove village,29.85,70.15
+1708706,Brookport city,52.17,50.0
+1763056,Reddick village,26.67,73.33
+1755470,Okawville village,37.8,62.2
+1703883,Barrington Hills village,48.01,51.92
+1735835,Homer Glen village,49.55,50.45
+1726194,Fisher village,48.6,51.4
+1752155,New Bedford village,46.67,53.33
+1711215,Carlock village,36.36,63.64
+1718485,Dana village,42.42,57.58
+1762588,Raleigh village,18.75,81.25
+1769914,Sigel town,36.51,63.49
+1704078,Batavia city,44.24,55.77
+1744446,London Mills village,56.67,40.0
+1723074,Elgin city,54.09,45.92
+1706964,Bluford village,59.09,40.91
+1718823,Decatur city,47.53,52.46
+1727026,Forrest village,36.91,63.09
+1751284,Mulberry Grove village,52.08,47.92
+1722073,East Moline city,39.51,60.5
+1729756,Glen Ellyn village,58.97,41.04
+1755275,Ogden village,53.51,46.49
+1755106,Oblong village,51.05,49.25
+1775549,Tiskilwa village,49.52,50.48
+1702609,Assumption city,24.2,75.95
+1728807,Gays village,46.75,53.25
+1708524,Brocton village,48.48,51.52
+1719681,Detroit village,25.0,75.0
+1707211,Bondville village,27.63,72.37
+1765611,Roscoe village,51.61,48.31
+1714845,Clear Lake village,54.42,46.26
+1755717,Old Ripley village,33.33,66.67
+1726753,Forest City village,47.92,52.08
+1756926,Ottawa city,55.93,44.07
+1732746,Hanover Park village,45.65,54.44
+1779683,Weldon village,40.54,59.46
+1737712,Iroquois village,36.84,63.16
+1772650,Stewardson village,35.77,64.23
+1783518,Worth village,50.29,49.74
+1726571,Flossmoor village,67.07,32.93
+1700997,Alsey village,47.37,52.63
+1733435,Harwood Heights village,54.12,45.96
+1714936,Clifton village,54.46,45.54
+1779228,Watseka city,55.71,44.26
+1719200,De Land village,40.0,60.0
+1747163,Marshall city,53.46,46.54
+1779358,Waverly city,46.15,53.85
+1738674,Joppa village,25.69,74.31
+1721358,Dwight village,59.22,40.83
+1753195,Nora village,47.37,52.63
+1768406,Scottville village,43.75,56.25
+1746786,Marengo city,44.98,54.97
+1740910,Lake Bluff village,43.65,56.32
+1747540,Matteson village,57.87,42.12
+1742067,LaPlace CDP,48.15,51.85
+1761977,Prophetstown city,62.99,37.15
+1714065,Chicago Ridge village,58.55,41.44
+1766677,St. Augustine village,61.11,38.89
+1718628,Darien city,53.9,46.1
+1745941,Macon city,59.62,40.38
+1739259,Keensburg village,25.0,75.0
+1725713,Fayetteville village,39.13,60.87
+1781919,Willowbrook village,53.18,46.73
+1734007,Henderson village,47.06,50.98
+1739038,Kappa village,44.16,55.84
+1760222,Pittsfield city,59.01,40.99
+1701647,Apple Canyon Lake CDP,46.59,53.41
+1728326,Galesburg city,59.54,40.48
+1724452,Essex village,25.0,75.0
+1714117,Chillicothe city,51.74,48.26
+1714442,Cisco village,48.15,51.85
+1705976,Big Rock village,47.91,52.09
+1735203,Hillview village,25.0,75.0
+1741794,La Moille village,46.6,53.4
+1730458,Good Hope village,24.14,75.86
+1760352,Plano city,47.77,52.23
+1767613,San Jose village,32.31,66.15
+1749347,Mill Shoals village,53.85,46.15
+1744927,Louisville village,45.75,54.25
+1751947,Nelson village,25.0,66.67
+1780957,West York CDP,46.15,53.85
+1739727,Kewanee city,56.72,43.28
+1758174,Pawnee village,43.32,56.68
+1776771,Union Hill village,20.0,80.0
+1738921,Kangley village,63.41,37.8
+1775848,Tower Hill village,61.54,38.46
+1777681,Vernon village,38.46,69.23
+1710292,Cabery village,60.47,41.86
+1724582,Evanston city,57.66,42.34
+1777993,Villa Park village,45.96,54.03
+1711527,Carthage city,56.62,43.38
+1763420,Reynolds village,59.38,39.06
+1751180,Mount Vernon city,50.21,49.78
+1730705,Grand Detour CDP,53.62,44.93
+1707692,Bradford village,58.05,41.95
+1767769,Sauk Village village,23.28,76.65
+1700516,Albany village,39.58,60.42
+1724634,Evergreen Park village,66.27,33.73
+1745525,McClure village,58.62,41.38
+1720643,Downs village,46.57,53.43
+1759709,Pierron village,32.5,67.5
+1720318,Donnellson village,42.86,57.14
+1709642,Burbank city,42.62,57.38
+1723841,Elvaston village,52.94,47.06
+1743250,Libertyville village,48.68,51.32
+1778604,Walnut Hill village,50.0,45.45
+1755041,Oakwood Hills village,45.48,54.52
+1754885,Oak Park village,64.27,35.73
+1726987,Forest View village,28.51,71.35
+1700178,Adair CDP,21.18,78.82
+1753871,Northlake city,36.62,63.38
+1722645,Edinburg village,44.29,55.71
+1707770,Braidwood city,57.44,42.56
+1754404,Norwood village,39.56,60.44
+1705209,Benld city,47.85,52.15
+1738531,Johnsonville village,60.0,40.0
+1703675,Bardolph village,20.79,79.21
+1751349,Mundelein village,44.33,55.67
+1780762,West Point village,62.16,37.84
+1715235,Coal Valley village,45.3,54.49
+1718563,Danville city,51.63,48.37
+1779007,Washburn village,46.85,53.15
+1704247,Baylis village,52.0,48.0
+1755132,Oconee village,57.89,42.11
+1752584,New Lenox village,46.17,53.81
+1755912,Olney city,59.17,40.83
+1716613,Coulterville village,67.74,32.26
+1703181,Aviston village,46.59,53.41
+1759000,Peoria city,56.39,43.61
+1748424,Meredosia village,37.7,62.3
+1778526,Walnut village,46.18,53.82
+1703103,Ava city,31.35,68.11
+1779124,Wataga village,48.5,51.5
+1702921,Auburn city,52.01,48.11
+1703454,Baldwin village,24.68,75.32
+1702102,Arlington village,41.86,60.47
+1721696,East Dundee village,40.24,59.72
+1757160,Paderborn CDP,42.86,57.14
+1702583,Ashton village,41.52,58.48
+1712294,Chadwick village,42.97,57.03
+1712476,Channahon village,29.74,70.23
+1772000,Springfield city,55.05,44.95
+1705599,Bethalto village,52.46,47.59
+1708264,Brighton village,54.7,44.6
+1782322,Windsor city,46.67,53.33
+1782491,Winnebago village,54.86,44.98
+1722931,Elburn village,41.21,58.79
+1747553,Mattoon city,54.01,45.99
+1747007,Markham city,41.56,58.44
+1745889,Macomb city,58.57,41.46
+1764421,Riverside village,57.97,42.07
+1743666,Lincolnshire village,48.3,51.69
+1776160,Trout Valley village,48.77,51.23
+1772468,Steeleville village,39.76,60.24
+1766950,St. Joseph village,53.49,46.51
+1705443,Berlin village,40.54,59.46
+1712879,Chemung CDP,33.93,64.29
+1771175,South Pekin village,41.97,58.03
+1717497,Crestwood village,50.11,49.89
+1710110,Bushnell city,42.49,57.61
+1750751,Mound City city,49.77,50.23
+1761639,Prairie du Rocher village,35.0,63.75
+1768081,Schiller Park village,36.53,63.47
+1739532,Kenney village,41.67,66.67
+1741326,Lakemoor village,45.98,54.02
+1720123,Dix village,41.18,58.82
+1757576,Papineau village,38.1,61.9
+1768640,Seneca village,37.65,62.5
+1730445,Goodfield village,22.8,77.2
+1734722,Highland Park city,55.6,44.39
+1741742,Lake Zurich village,50.4,49.62
+1724699,Exeter village,41.67,66.67
+1739753,Keyesport village,52.22,47.78
+1704507,Beaverville village,37.78,62.22
+1738934,Kankakee city,60.41,39.58
+1728261,Galatia village,54.94,45.06
+1748359,Menominee village,33.33,66.67
+1736841,Hutsonville village,45.61,54.39
+1777694,Vernon Hills village,50.28,49.71
+1749516,Mineral village,41.03,58.97
+1728612,Garden Prairie village,30.67,69.33
+1724933,Fairmont City village,30.72,69.5
+1701361,Anchor village,57.14,39.29
+1711644,Caseyville village,44.84,55.16
+1777187,Valley City village,50.0,50.0
+1742080,La Prairie village,54.55,45.45
+1720305,Dongola village,40.91,59.09
+1751024,Mount Olive city,35.38,64.62
+1711462,Carrollton city,62.17,37.98
+1711397,Carrier Mills village,52.55,47.13
+1744264,Loda village,28.07,73.68
+1710422,Caledonia village,42.86,42.86
+1707744,Bradley village,49.39,50.62
+1726311,Flanagan village,58.7,41.3
+1705274,Bentley town,57.14,42.86
+1703844,Barrington village,52.51,47.51
+1736150,Hopewell village,42.86,57.14
+1751622,Naperville city,53.5,46.5
+1751336,Muncie village,50.0,45.45
+1722255,East St. Louis city,52.38,47.62
+1705300,Benton city,52.02,47.98
+1718771,Dayton CDP,49.2,51.03
+1756237,Oquawka village,59.6,40.4
+1783336,Woodson village,31.25,68.75
+1766053,Round Lake Heights village,50.0,49.38
+1707237,Bonfield village,24.24,72.73
+1752220,New Boston city,51.06,48.94
+1703207,Avon village,59.02,41.8
+1763706,Richton Park village,53.46,46.54
+1772923,Stone Park village,39.62,60.46
+1783206,Woodlawn village,43.28,56.72
+1755639,Old Mill Creek village,48.78,46.34
+1727689,Franklin Grove village,49.5,50.5
+1775107,Thomasboro village,41.35,58.65
+1772676,Stickney village,32.0,68.0
+1774457,Tamms village,57.78,42.22
+1756341,Orangeville village,49.37,50.63
+1721683,East Dubuque city,33.2,67.0
+1700971,Alpha village,47.17,52.2
+1753663,Northfield village,55.83,44.18
+1732434,Hamilton city,48.09,51.91
+1719226,Delavan city,37.89,62.56
+1737608,Inverness village,47.08,52.89
+1704871,Bellevue village,44.16,55.68
+1733383,Harvey city,51.78,48.22
+1702557,Ashmore village,21.43,78.57
+1753403,Norris City village,46.93,53.07
+1712268,Cerro Gordo village,47.22,53.47
+1726077,Fillmore village,41.18,58.82
+1734553,Hidalgo village,42.86,57.14
+1781087,Wheeling village,42.08,57.93
+1737777,Irvington village,41.34,58.66
+1719642,Des Plaines city,42.76,57.25
+1770161,Sleepy Hollow village,46.36,53.64
+1700880,Allerton village,48.39,51.61
+1746214,Makanda village,51.11,48.89
+1746695,Maquon village,46.15,50.0
+1760534,Pleasant Hill village,41.67,58.33
+1741404,Lake Petersburg CDP,47.06,53.48
+1735281,Hindsboro village,50.0,46.43
+1715950,Como CDP,40.56,59.44
+1733877,Hecker village,36.36,65.91
+1738830,Justice village,46.87,53.13
+1739298,Keithsburg city,50.0,47.62
+1750218,Montgomery village,40.2,59.8
+1728300,Galena city,57.9,42.1
+1738349,Jeisyville village,52.63,47.37
+1704897,Bellflower village,40.32,61.29
+1758239,Paxton city,61.84,38.08
+1766833,St. Francisville city,43.48,58.7
+1744121,Liverpool village,30.0,60.0
+1730653,Grafton city,52.84,47.16
+1730120,Godley village,60.49,38.89
+1710383,Cairo city,52.56,47.34
+1760391,Plattville village,37.5,62.5
+1701595,Antioch village,53.04,46.99
+1710630,Cambria village,46.15,52.75
+1780931,Westville village,58.24,41.76
+1745434,Lyons village,41.85,58.15
+1740117,Kinmundy city,44.9,55.1
+1746981,Mark village,37.44,62.56
+1735515,Holiday Hills village,45.0,55.0
+1701114,Alton city,60.41,39.59
+1749568,Minonk city,45.24,54.76
+1735047,Hillsboro city,49.61,50.43
+1740598,Ladd village,65.31,34.69
+1731017,Granville village,37.45,62.55
+1736542,Humboldt village,33.33,66.67
+1704403,Beason CDP,34.38,65.63
+1780333,West Frankfort city,53.38,46.62
+1777408,Venedy village,37.5,62.5
+1744056,Littleton village,6.25,96.88
+1708992,Brownstown village,45.0,55.0
+1725141,Fairview Heights city,56.11,43.9
+1736438,Hudson village,39.5,60.5
+1766768,St. David village,34.09,65.91
+1724816,Fairfield city,55.07,44.93
+1743900,Lisbon village,36.84,63.16
+1731524,Greenup village,46.03,53.97
+1735866,Hometown city,46.34,53.66
+1763069,Redmon village,50.0,50.0
+1718342,Dakota village,44.87,55.13
+1715170,Coal City village,29.75,70.21
+1745616,McCullom Lake village,48.89,51.56
+1701972,Argenta village,53.85,46.15
+1770564,South Barrington village,48.56,51.42
+1724920,Fairmont CDP,48.31,51.95
+1723269,Elkhart village,30.36,69.64
+1765442,Romeoville village,36.4,63.6
+1729652,Glencoe village,52.56,47.47
+1752103,Newark village,39.44,60.56
+1709759,Burlington village,50.26,49.74
+1726896,Forest Lake CDP,53.43,46.57
+1770629,South Chicago Heights village,41.99,58.01
+1704273,Bay View Gardens village,24.24,75.76
+1737179,Ina village,44.91,55.09
+1762822,Rapids City village,29.72,70.28
+1718745,Dawson village,42.62,57.38
+1708979,Browns village,31.25,68.75
+1765845,Roseville village,46.15,53.85
+1715001,Clinton city,42.45,57.55
+1702635,Astoria town,48.89,51.56
+1743055,Lewistown city,63.78,36.22
+1755938,Olympia Fields village,58.53,41.42
+1707224,Bone Gap village,55.56,38.89
+1708576,Brookfield village,52.4,47.6
+1770759,Southern View village,48.84,51.16
+1762627,Ramsey village,46.81,53.19
+1763719,Richview village,40.58,57.97
+1729496,Glasgow village,47.83,52.17
+1729275,Gilman city,53.93,46.07
+1711033,Cantrall village,42.86,57.14
+1726233,Fithian village,52.05,47.95
+1747774,Maywood village,63.91,36.09
+1782010,Willow Hill village,30.0,68.0
+1782543,Winslow village,50.68,49.32
+1774444,Tamaroa village,32.5,65.0
+1771370,South Wilmington village,48.89,52.22
+1775263,Tilden village,25.0,75.0
+1728872,Geneva city,53.73,46.27
+1732395,Hamburg village,70.59,32.35
+1742457,Leaf River village,35.71,64.29
+1737348,Indianola village,48.28,51.72
+1747111,Marquette Heights city,39.67,60.33
+1782309,Windsor village,63.2,37.6
+1742184,LaSalle city,47.0,53.05
+1717549,Creve Coeur village,48.6,51.07
+1774847,Thawville village,26.47,73.53
+1768471,Seatonville village,40.0,60.0
+1765156,Rockton village,44.94,55.06
+1712385,Champaign city,48.89,51.11
+1740962,Lake Camelot CDP,43.8,57.02
+1704793,Belle Prairie City town,40.0,60.0
+1761925,Princeville village,43.63,56.37
+1738739,Joy village,51.72,48.28
+1747592,Maunie village,47.37,52.63
+1737907,Itasca village,42.25,57.74
+1775484,Tinley Park village,55.31,44.69
+1746357,Manhattan village,50.99,49.01
+1746422,Manlius village,46.58,53.42
+1746643,Mapleton village,30.11,70.97
+1741346,Lake of the Woods CDP,51.17,48.59
+1745993,Madison city,24.61,75.29
+1739519,Kenilworth village,70.42,29.75
+1757225,Palatine village,52.78,47.22
+1752844,Newton city,54.32,45.75
+1741183,Lake in the Hills village,44.41,55.56
+1776615,Ullin village,41.18,58.82
+1758226,Paw Paw village,40.91,59.09
+1725440,Farmersville village,31.75,68.25
+1749191,Milledgeville village,43.1,57.32
+1745421,Lynwood village,42.03,58.06
+1767372,Sammons Point village,45.16,56.45
+1731732,Gridley village,39.46,60.54
+1749178,Mill Creek village,33.33,66.67
+1775874,Tower Lakes village,48.65,51.35
+1701569,Annawan town,39.57,60.43
+1725531,Farmington city,61.37,38.75
+1717055,Cowden village,58.46,41.54
+1740364,Knollwood CDP,39.9,60.1
+1700568,Albion city,48.43,51.52
+1766157,Royal village,53.66,46.34
+1745044,Lovington village,58.54,41.46
+1710240,Byron city,57.75,42.42
+1780853,West Salem village,57.81,42.19
+1773157,Streamwood village,51.34,48.68
+1706470,Blandinsville village,25.0,75.0
+1748021,Mechanicsburg village,43.48,56.52
+1708186,Bridgeport city,49.73,50.27
+1762016,Prospect Heights city,37.63,62.35
+1709161,Bryant village,65.0,35.0
+1701946,Arenzville village,51.68,47.65
+1735879,Homewood village,50.78,49.22
+1766027,Round Lake village,52.49,47.49
+1766534,Sadorus village,43.42,57.89
+1760872,Pocahontas village,35.29,64.71
+1745174,Ludlow village,41.03,58.97
+1724179,Enfield village,52.78,47.22
+1704303,Beach Park village,51.86,48.21
+1705092,Belvidere city,43.61,56.39
+1723529,Ellisville village,60.0,40.0
+1723256,Elk Grove Village village,45.25,54.76
+1754144,North Riverside village,47.34,52.66
+1751310,Mulkeytown CDP,41.18,58.82
+1722697,Edwardsville city,56.22,43.78
+1751648,Naplate village,48.31,51.69
+1752116,New Athens village,48.23,51.42
+1720292,Dolton village,48.07,51.9
+1766443,Rutland village,42.42,57.58
+1759104,Percy village,39.71,60.29
+1765897,Rosiclare city,65.95,33.51
+1751791,Nauvoo city,53.16,46.84
+1715378,Colchester city,41.8,57.79
+1780047,Westchester village,48.86,51.15
+1732707,Hanover village,54.1,45.9
+1772949,Stonington village,25.97,74.68
+1729483,Glasford village,29.46,70.25
+1726935,Forest Park village,46.4,53.6
+1774470,Tampico village,39.44,61.97
+1702154,Arlington Heights village,54.44,45.56
+1778773,Wapella village,41.3,58.7
+1774275,Symerton village,28.57,57.14
+1753793,North Henderson village,64.52,38.71
+1700958,Alorton village,59.24,40.55
+1762523,Radom village,5.33,94.67
+1743133,Liberty village,50.94,49.06
+1775276,Tilton village,37.73,62.16
+1721826,East Galesburg village,53.54,47.24
+1728846,Geneseo city,54.78,45.2
+1773703,Sumner city,42.18,57.82
+1712489,Channel Lake CDP,28.89,71.11
+1705898,Biggsville village,52.38,47.62
+1737621,Iola village,42.11,63.16
+1772052,Spring Grove village,41.65,58.35
+1756601,Orion village,42.74,57.26
+1712710,Chatsworth town,27.37,72.63
+1746500,Manteno village,46.23,53.77
+1774873,Thebes village,33.73,66.27
+1733279,Hartford village,27.01,72.99
+1715599,Collinsville city,55.5,44.51
+1777525,Vergennes village,32.14,69.05
+1764148,Rio village,54.55,45.45
+1737933,Iuka village,40.0,60.0
+1730250,Golden Gate village,44.44,55.56
+1764135,Ringwood village,51.46,49.03
+1717289,Creal Springs city,15.15,84.85
+1757303,Palmer village,46.15,50.0
+1768705,Sesser city,54.66,45.34
+1708953,Browning village,33.33,66.67
+1730926,Granite City city,36.11,63.9
+1782686,Winthrop Harbor village,47.68,52.32
+1734137,Henning village,41.67,58.33
+1779397,Wayne village,43.35,56.46
+1764707,Robinson city,44.48,55.54
+1735268,Hinckley village,54.97,45.03
+1739441,Kempton village,65.96,34.04
+1772546,Sterling city,60.24,39.76
+1737803,Irwin village,41.18,52.94
+1783817,Yates City village,48.39,51.61
+1733851,Hebron village,39.04,60.77
+1702206,Armington village,48.0,52.0
+1712931,Chenoa city,51.76,48.24
+1766859,St. Jacob village,23.47,77.55
+1714715,Clay City village,45.35,54.65
+1776935,University Park village,45.7,54.21
+1711514,Carterville city,56.41,43.64
+1745850,McNabb village,33.33,65.33
+1710877,Camp Point village,57.14,42.86
+1722398,Eddyville village,50.0,33.33
+1775809,Tovey village,52.81,46.07
+1714572,Clarendon Hills village,56.4,43.53
+1777642,Vermont village,48.48,51.52
+1763862,Ridge Farm village,50.0,47.5
+1779826,Wenonah village,50.0,50.0
+1720045,Divernon village,43.53,56.47
+1724543,Eureka city,52.17,47.83
+1767548,Sandwich city,63.47,36.53
+1736568,Hume village,48.72,51.28
+1766638,St. Anne village,39.76,60.24
+1700555,Albers village,51.04,48.96
+1709356,Buda village,41.57,58.43
+1747787,Mazon village,54.03,45.97
+1760287,Plainfield village,56.2,43.8
+1735086,Hillside village,43.83,56.13
+1746916,Marion city,52.86,47.14
+1740559,Lacon city,57.88,42.12
+1777460,Venetian Village CDP,71.12,29.01
+1777395,Varna village,50.56,49.44
+1750010,Monmouth city,48.96,51.04
+1766703,St. Charles city,50.11,49.88
+1749386,Millstadt village,41.48,58.37
+1783687,Wyoming city,40.42,59.58
+1723620,Elmhurst city,51.53,48.47
+1777265,Valmeyer village,52.3,47.7
+1724166,Energy village,64.48,35.52
+1705248,Bensenville village,35.97,64.02
+1759312,Petersburg city,46.86,53.14
+1724764,Fairbury city,53.27,46.73
+1751128,Mount Pulaski city,52.96,47.41
+1748632,Metcalf village,47.37,52.63
+1728430,Galva city,45.54,54.46
