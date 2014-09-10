@@ -35,5 +35,5 @@ The steps for updating numeric data and some geographic data are documented in t
 2. `grunt build`
 3. `git add app dist`
 4. `git commit -m "update data with your-message-here"`
-5. `git subtree push prefix dist origin gh-pages` - updates front-facing site
+5. `git subtree push --prefix dist origin gh-pages` - updates front-facing site
 6. 'git push origin master' - updates master branch
