@@ -1,17 +1,17 @@
 Woodstock Map Browser
 ---
 
-This map browser presents data for foreclosure, mortgage, income, jobs, and employment in Illinois.
+This map browser presents data for foreclosure, mortgage, income, jobs, and employment in Illinois. This documentation walks you through the setup of your system and the data update procedures.
 
 ## How do you maintain the site
 
-### Configure environment for python, git and node:
+### Configure you windows environment:
 
 1. Python
   - install
 2. Git
   - install 
-  - [Follow the instruction]() to configure your SSH key for using GitHub.
+  - [Follow the instruction](https://help.github.com/articles/generating-ssh-keys#platform-windows) to configure your SSH key for using GitHub.
 3. Node
   - install
 4. GNU Make
@@ -36,4 +36,4 @@ The steps for updating numeric data and some geographic data are documented in t
 3. `git add app dist`
 4. `git commit -m "update data with your-message-here"`
 5. `git subtree push --prefix dist origin gh-pages` - updates front-facing site
-6. 'git push origin master' - updates master branch
+6. `git push origin master` - updates master branch
