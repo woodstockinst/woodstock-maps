@@ -235,7 +235,6 @@ module.exports = function (grunt) {
                         'open-data/{,*/}{,*/}{,*/}{,*/}*', //csv download
                         'images/{,*/}*.{webp,gif}',
                         'styles/images/{,*/}*.*',//mapbox asset
-                        'fonts/{,*/}*.*', //font awesome
                         'templates/{,*/}*.*', //templates
                         'scripts/foundation/3.2/{,*/}*.*',
                         'scripts/foundation/5.1/{,*/}*.*'                    ]
