@@ -5,7 +5,7 @@ This map browser presents data for foreclosure, mortgage, income, jobs, and empl
 
 ### Configure your Windows environtment
 
-- Follow the instructions [in the wiki](https://github.com/woodstockinst/woodstock-maps/wiki/Configure-Your-Windows-Environment)
+- Follow the instructions [in the wiki](https://github.com/woodstockinst/woodstock-maps/wiki/1.-Configure-Your-Windows-Environment)
 
 ### Configure GitHub ssh key
 
@@ -21,8 +21,8 @@ This map browser presents data for foreclosure, mortgage, income, jobs, and empl
 
 The steps for updating numeric data and some geographic data are documented in the wiki of this repository:
 
-- [Update numeric data](https://github.com/woodstockinst/woodstock-maps/wiki/Update-numeric-data)
-- [Update geographic data](https://github.com/woodstockinst/woodstock-maps/wiki/Update-geographic-data)
+- [Update numeric data](https://github.com/woodstockinst/woodstock-maps/wiki/2.-Update-numeric-data)
+- [Update geographic data](https://github.com/woodstockinst/woodstock-maps/wiki/3.-Update-geographic-data)
 
 ## Push data changes to GitHub
 
