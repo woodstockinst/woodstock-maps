@@ -2,7 +2,6 @@ TOPOJSON = ../node_modules/.bin/topojson
 TARGET = ../app/data/topojson/
 
 GENERATED_FILES = \
-	allcsv \
 	topo/il_cbsa.json \
 	topo/il_counties.json \
 	topo/il_tracts_2010.json \
@@ -81,12 +80,6 @@ zip/il_legislative.zip:
 zip/il_chicago_community_area.zip:
 	mkdir -p $(dir $@)
 	curl 'https://data.cityofchicago.org/api/geospatial/cauq-8yn6?method=export&format=Shapefile' -o $@.download
-	mv $@.download $@
-
-### Scaffolding for all numeric data
-zip/input.zip:
-	mkdir -p $(dir $@)
-	curl -L 'https://www.dropbox.com/s/mlhnclpxl1dctoi/input.zip?dl=1' -o $@.download
 	mv $@.download $@
 
 ##############
@@ -286,20 +279,3 @@ topo/il_chicago_community_area.json: shp/il_chicago_community_area.geojson
 	-p community=COMMUNITY \
 	-- $(filter %.geojson, $^)
 	cp $@ $(TARGET)
-
-
-##############
-#  numeric   #
-##############
-
-allinput: zip/input.zip
-	unzip -d $(basename $@) $<
-	mv $@/input .
-	rm -rf $@
-
-allcsv: allinput
-	rm -rf ../app/data/maps
-	rm -rf ../app/data/click
-	python data-maker/builder.py
-	mv output/maps ../app/data/maps
-	mv output/click ../app/data/click
