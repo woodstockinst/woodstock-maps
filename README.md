@@ -26,9 +26,12 @@ The steps for updating numeric data and some geographic data are documented in t
 
 ## Push data changes to GitHub
 
-1. Run respective script
-2. `grunt build`
-3. `git add app dist`
-4. `git commit -m "update data with your-message-here"`
-5. `git push origin master` - updates master branch
-6. `git subtree push --prefix dist origin gh-pages` - updates front-facing site
+Once you've run respective scripts to update the data, you can preview them by serving the site locally. To do that, you simply run `grunt serve` in your command line.
+
+If you are happy with what you've got, you are ready to push the changes. Run the following commands:
+
+1. `grunt build`
+2. `git add app dist`
+3. `git commit -m "update data with your-message-here"`
+4. `git push origin master` - updates master branch
+5. `git subtree push --prefix dist origin gh-pages` - updates front-facing site
