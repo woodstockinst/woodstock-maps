@@ -161,9 +161,10 @@ def metrics_from_csv(subject, geography_ref, headers):
 
             else:
                 for csv_row in dump:
-                    # if it's not cbsa, fips code start with 17
-                    if csv_row[indices[1]] == '':
+                    # if the index for name or fips code is empty, continue
+                    if csv_row[indices[0]].strip() == '' || csv_row[indices[1]].strip() == '':
                         continue
+                    # if it's not cbsa, fips code start with 17
                     elif geography_ref == 'cbsa' or csv_row[indices[0]][0:2] == '17':
                         data_row = list()
                         for index in indices:
