@@ -78,6 +78,7 @@
                     "mapid": "completed_auctions_per_1000",
                     "type": "number",
                     "years": [
+						"2014",
                         "2013",
                         "2012",
                         "2011",
@@ -91,6 +92,7 @@
                     "mapid": "foreclosure_filings_per_1000",
                     "type": "number",
                     "years": [
+						"2014",
                         "2013",
                         "2012",
                         "2011",
