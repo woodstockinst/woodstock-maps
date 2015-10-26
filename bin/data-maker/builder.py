@@ -1,6 +1,7 @@
 import math
 import os
 import sys
+import csv
 from lib import csvtools
 from lib import jsontools
 from lib import dictools as dt
@@ -139,37 +140,34 @@ def metrics_from_csv(subject, geography_ref, headers):
                 print '\n\n', '%s does not exist at %s' % (filename, location['path'])
                 return False
 
+
             dump = csvtools.read(path)
             dump_header = [header.lower().strip() for header in dump.pop(0)]
 
-            # we need all columns to be present in order to work on it.
-            # if we don't have all the columns, skip this file.
-            indices = list()
-            unmatched_headers = list()
-            for header in new_header:
-                header = header.lower()
-                if header in dump_header:
-                    indices.append(dump_header.index(header))
-                else:
-                    unmatched_headers.append(header)
+            with open(path, 'rU') as f:
+                reader = csv.reader(f)
+                dump_header = [header.lower().strip() for header in next(reader)]
 
-            if len(indices) != len(new_header):
-                # print 'Not all indices present, continuing to next file'
-                # print (', ').join(dump_header)
-                # print 'Missing %s\n' % (', ').join(unmatched_headers)
-                continue
+                # we need all columns to be present in order to work on it.
+                # if we don't have all the columns, skip this file.
 
-            else:
-                for csv_row in dump:
+                indices = [dump_header.index(header.lower()) for header in new_header if (
+                    header.lower() in dump_header)]
+
+                if len(indices) != len(new_header):
+                    # print 'Not all indices present, continuing to next file'
+                    # print (', ').join(dump_header)
+                    # print 'Missing %s\n' % (', ').join(unmatched_headers)
+                    continue
+
+                for row in reader:
                     # if the index for name or fips code is empty, continue
-                    if csv_row[indices[0]].strip() == '' or csv_row[indices[1]].strip() == '':
+                    if row[indices[0]].strip() == '' or row[indices[1]].strip() == '':
                         continue
                     # if it's not cbsa, fips code start with 17
-                    elif geography_ref == 'cbsa' or csv_row[indices[0]][0:2] == '17':
-                        data_row = list()
-                        for index in indices:
-                            data_row.append(csv_row[index])
-                        data[data_year].append(data_row)
+                    elif geography_ref == 'cbsa' or row[indices[0]][0:2] == '17':
+                        data[data_year].append([row[index] for index in indices])
+
                 continue # for csv row
     return data
 
@@ -580,7 +578,9 @@ def schema(write):
 
             length = len(available_data)
             mid = int(math.floor(length/2))
-            if mid*2 == length:
+            if not length:
+                median = 0
+            elif mid*2 == length:
                 median = round((__float__(available_data[mid-1][1]) + __float__(available_data[mid+1][1])) / 2, 2)
             else:
                 median = __float__(available_data[mid][1])
