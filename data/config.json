@@ -5,12 +5,13 @@
             "display": " residential addresses vacancy (%)",
             "mapid": "long_term_vacancy",
             "medians": [
-                1.92,
-                2.8,
-                3.7,
-                3.97,
-                4.42,
-                5.31
+                33.94,
+                45.0,
+                53.75,
+                55.91,
+                63.16,
+                64.86,
+                72.73
             ],
             "subject": "housing",
             "type": "percent",
@@ -20,15 +21,16 @@
                 2010,
                 2011,
                 2012,
-                2013
+                2013,
+                2014
             ]
         },
         {
             "display": " average mortgage value ($)",
             "mapid": "avg_loan_value",
             "medians": [
-                153455.0,
-                144630.0,
+                0,
+                0,
                 147620.0
             ],
             "subject": "mortgage",
@@ -36,7 +38,8 @@
             "years": [
                 2010,
                 2011,
-                2012
+                2012,
+				2013
             ]
         },
         {
@@ -78,8 +81,9 @@
                     "mapid": "completed_auctions_per_1000",
                     "type": "number",
                     "years": [
+                        "2015",
 						"2014",
-                        "2013",
+						"2013",
                         "2012",
                         "2011",
                         "2010",
@@ -92,8 +96,9 @@
                     "mapid": "foreclosure_filings_per_1000",
                     "type": "number",
                     "years": [
+                        "2015",
 						"2014",
-                        "2013",
+						"2013",
                         "2012",
                         "2011",
                         "2010",
@@ -162,6 +167,7 @@
                     "mapid": "long_term_vacancy",
                     "type": "percent",
                     "years": [
+                        "2014",
                         "2013",
                         "2012",
                         "2011",
@@ -175,6 +181,7 @@
                     "mapid": "change_long_term_vacancy",
                     "type": "percent",
                     "years": [
+                        "2014",
                         "2013",
                         "2012",
                         "2011",
@@ -187,6 +194,7 @@
                     "mapid": "vacancy_pct_owner_occupied",
                     "type": "percent",
                     "years": [
+                        "2014",
                         "2013",
                         "2012",
                         "2011",
@@ -215,10 +223,10 @@
                     "mapid": "mortgage_pct_for_owner_occupancy",
                     "type": "percent",
                     "years": [
-						"2013",
-                        "2012",
+                        "2013",
+						"2012",
                         "2011",
-						"2010"
+                        "2010"
                     ]
                 },
                 {
@@ -226,10 +234,10 @@
                     "mapid": "pct_origin",
                     "type": "percent",
                     "years": [
-						"2013",
-                        "2012",
+                        "2013",
+						"2012",
                         "2011",
-						"2010"
+                        "2010"
                     ]
                 },
                 {
@@ -237,10 +245,10 @@
                     "mapid": "pct_conventional",
                     "type": "percent",
                     "years": [
-						"2013",
-                        "2012",
+                        "2013",
+						"2012",
                         "2011",
-						"2010"
+                        "2010"
                     ]
                 },
                 {
@@ -248,10 +256,10 @@
                     "mapid": "avg_loan_value",
                     "type": "currency",
                     "years": [
-						"2013",
-                        "2012",
+                        "2013",
+						"2012",
                         "2011",
-						"2010"
+                        "2010"
                     ]
                 }
             ],
@@ -263,7 +271,7 @@
             ],
             "subject": "Mortgage",
             "tractfiles": {
-				"2010": "2000",
+                "2010": "2000",
                 "2011": "2000",
                 "2012": "2010",
 				"2013": "2010"
